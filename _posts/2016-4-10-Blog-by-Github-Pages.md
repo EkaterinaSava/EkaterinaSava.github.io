@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Быстрое создание блога с помощью GitHub Pages
-----------------------------------------------------
+---
 
 Шаг 1. Форк репозитория https://github.com/barryclark/jekyll-now
 
