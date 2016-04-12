@@ -5,7 +5,7 @@ title: Cоздание блога с помощью GitHub Pages
 
 Краткая инструкция в 3 шагах по созданию аналогичного блога
 
-
+---
 
   * Шаг 1. Форк репозитория https://github.com/barryclark/jekyll-now
 
@@ -13,6 +13,8 @@ title: Cоздание блога с помощью GitHub Pages
 
   * Шаг 3. IDE: VSC → Checkout from Version Control → Git → git@github.com:EkaterinaSava/EkaterinaSava.github.io.git
 
+---
   
 Основной конфигурационный файл: _config.yml
+
 Каждый пост создается как отдельный .md файл в папке _post
