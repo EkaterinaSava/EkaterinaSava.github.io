@@ -7,7 +7,7 @@ title: Cоздание блога с помощью GitHub Pages
 
 ---
 
-  * Шаг 1. Форк репозитория https://github.com/barryclark/jekyll-now
+  * Шаг 1. Форк [репозитория](https://github.com/barryclark/jekyll-now)
 
   * Шаг 2. Settings → Repository name → EkaterinaSava.github.io
 
@@ -15,6 +15,6 @@ title: Cоздание блога с помощью GitHub Pages
 
 ---
   
-Основной конфигурационный файл: _config.yml
+Основной конфигурационный файл: __config.yml
 
-Каждый пост создается как отдельный .md файл в папке _post
+Каждый пост создается как отдельный .md файл в папке post
