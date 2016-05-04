@@ -12,7 +12,7 @@ title: Полезные ссылки и ресурсы для старта в и
   
   Step 2. Самые основы JS: просто, кратко, понятно
   
-  _Прочитать, обращая внимания на используемые термины и обороты, далее это пригодится для понимания видео-уроков на английском_
+  _Прочитать, обращая внимания на используемые термины и обороты, далее это пригодится для понимания видео-уроков и других материалов на английском_
   
   * [JS для котиков](http://jsforcats.com/)
   * [JS для детей](http://fileshare.cqproject.net/files//jsfkids.pdf)
@@ -22,7 +22,8 @@ title: Полезные ссылки и ресурсы для старта в и
   Step 3. Более глубокие и подробные уроки:
   
   * Введение в JavaScript [видеокурс](https://www.youtube.com/playlist?list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR) от Hexlet, сам курс [здесь](https://ru.hexlet.io/courses/javascript_101)
-
+  * Книга [«Выразительный JavaScript»](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)  
+  
 ---
   
   Step 4. Потренироваться:
