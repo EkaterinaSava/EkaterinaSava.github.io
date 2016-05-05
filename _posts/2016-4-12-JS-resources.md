@@ -9,8 +9,8 @@ title: Полезные ссылки и ресурсы для старта в и
 
   Step 1. Основы программирования
   
-  * На примере JS – [на русском от Hexlet](https://ru.hexlet.io/courses/programming-basics)
-  * За одно стоит пройти и видео-курс – [JS: подготовка к работе](https://ru.hexlet.io/courses/javascript_setup) 
+  * На примере JS (что очень позитивно для нас) – [на русском от Hexlet](https://ru.hexlet.io/courses/programming-basics)
+  * Заодно стоит пройти и видео-курс – [JS: подготовка к работе](https://ru.hexlet.io/courses/javascript_setup) 
   
 ---  
   
@@ -32,7 +32,7 @@ title: Полезные ссылки и ресурсы для старта в и
   
   Step 4. Потренироваться:
   
-  * Отточить синтаксис + повторить изученное – достаточно объемный курс по JS от CodeSchool в трех частях
+  * Отточить синтаксис + повторить изученное – достаточно объемный курс по JS от CodeSchool в трех частях:
     - [часть 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
     - [часть 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
     - [часть 3](https://www.codeschool.com/courses/javascript-road-trip-part-3)
