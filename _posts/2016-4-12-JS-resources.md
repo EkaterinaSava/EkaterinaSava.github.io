@@ -9,8 +9,8 @@ title: Полезные ссылки и ресурсы для старта в и
 
   Step 1. Основы программирования
   
-  * На примере JS - [на русском от Hexlet](https://ru.hexlet.io/courses/programming-basics)
-  * За одно стоит пройти и видео-курс [JS: подготовка к работе](https://ru.hexlet.io/courses/javascript_setup) 
+  * На примере JS – [на русском от Hexlet](https://ru.hexlet.io/courses/programming-basics)
+  * За одно стоит пройти и видео-курс – [JS: подготовка к работе](https://ru.hexlet.io/courses/javascript_setup) 
   
 ---  
   
