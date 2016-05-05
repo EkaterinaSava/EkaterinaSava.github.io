@@ -33,7 +33,11 @@ title: Полезные ссылки и ресурсы для старта в и
   Step 4. Потренироваться:
   
   * Отточить синтаксис + повторить изученное – достаточно объемный курс по JS от CodeSchool в трех частях:
+  
     – [часть 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
+    
     – [часть 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
+    
     – [часть 3](https://www.codeschool.com/courses/javascript-road-trip-part-3)
+    
   * Регулярные выражения – небольшой [интерактивный туториал](http://regexone.com/lesson/introduction_abcs) из 15 заданий
