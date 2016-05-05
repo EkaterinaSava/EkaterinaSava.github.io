@@ -37,3 +37,7 @@ title: Полезные ссылки и ресурсы для старта в и
     - [часть 2](https://www.codeschool.com/courses/javascript-road-trip-part-2)
     - [часть 3](https://www.codeschool.com/courses/javascript-road-trip-part-3)
   * Регулярные выражения – небольшой [интерактивный туториал](http://regexone.com/lesson/introduction_abcs) из 15 заданий
+  
+---
+  
+  :octocat: 
