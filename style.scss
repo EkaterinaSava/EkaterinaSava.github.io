@@ -229,6 +229,9 @@ hr {
   letter-spacing: 1px;
   margin-top: -7px;
   margin-bottom: 6px;
+  a {
+    transition: color .55s;
+  }
 }
 
 .site-description {
@@ -304,9 +307,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  //border-top: 1px solid #ddd;
+  //border-bottom: 1px solid #ddd;
+  //background-color: $lightGray;
 }
 
 footer {
