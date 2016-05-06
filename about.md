@@ -6,10 +6,6 @@ permalink: /about/
 
 Hi!
 
-### More Information
-
-Check my social accs :)
-
-### Contact me
+##### Email me
 
 [ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
