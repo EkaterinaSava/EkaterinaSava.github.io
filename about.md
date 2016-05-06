@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
 Hi!
 
-##### Email me
+Верстаю с 2012 года
 
-[ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
+##### Email me – [ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
