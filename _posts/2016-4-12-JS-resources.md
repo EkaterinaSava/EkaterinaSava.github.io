@@ -25,8 +25,11 @@ title: Полезные ссылки и ресурсы для старта в и
   
   Step 3. Более глубокие и подробные уроки:
   
+  _В основном по ссылкам ниже - теория с примерами_
+  
   * Введение в JavaScript [видеокурс](https://www.youtube.com/playlist?list=PLo6puixMwuSNxJCgadaaavKqq4-ocKPrR) от Hexlet, сам курс [здесь](https://ru.hexlet.io/courses/javascript_101)
   * Книга [«Выразительный JavaScript»](https://karmazzin.gitbooks.io/eloquentjavascript_ru/content/)  
+  * Лекция [JavaScript. Базовые знания - Михаил Давыдов](https://youtu.be/vbdsTTDInTY) – от Школы разработки интерфейсов Яндекса в Москве
   
 ---
   
@@ -39,3 +42,5 @@ title: Полезные ссылки и ресурсы для старта в и
   * Регулярные выражения – небольшой [интерактивный туториал](http://regexone.com/lesson/introduction_abcs) из 15 заданий
   
 ---
+
+  После изучения всего этого, можно себя поздравить – освоение начального уровня прошло успешно!  
