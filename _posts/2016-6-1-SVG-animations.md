@@ -7,7 +7,7 @@ title: SVG-анимации
   Несмотря на то, что svg-спрайты – ежедневная практика, знаний о том, с какого угла подступиться к решению задачи, не было. Поэтому пришлось провести self-ликбез по векторной графике и разобраться с ее анимированием.
   
 
----
+
 
   __Шаг 1 – Знакомство с "внутренностями" svg__
   
@@ -40,6 +40,9 @@ title: SVG-анимации
   В процессе изучения выбранной мной библиотеки, я реализовала несколько примеров анимации, которые можно посмотреть на CodePen по ссылкам ниже:
    
   1. [Анимация текстовой svg-маски](https://codepen.io/EkaterinaSava/full/EyaKVE/)
+  
+  <p data-height="265" data-theme-id="dark" data-slug-hash="EyaKVE" data-default-tab="html,result" data-user="EkaterinaSava" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/EkaterinaSava/pen/EyaKVE/">Svg Animated Text Mask</a> by Ekaterina Sava (<a href="http://codepen.io/EkaterinaSava">@EkaterinaSava</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+  <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
   
   _p.s. пока пример один, но скоро будут еще ;)_
   
