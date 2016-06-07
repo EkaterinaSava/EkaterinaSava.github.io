@@ -48,9 +48,10 @@ title: SVG-анимации
   
   <p data-height="265" data-theme-id="light" data-slug-hash="gMpgNG" data-default-tab="result" data-user="EkaterinaSava" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/EkaterinaSava/pen/gMpgNG/">Animate svg icon on click</a> by Ekaterina Sava (<a href="http://codepen.io/EkaterinaSava">@EkaterinaSava</a>) on <a href="http://codepen.io">CodePen</a>.</p>
   <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+---  
   
-  
-  Кроме того, в процессе я попробовала еще некоторые варианты без использования скриптов:
+  Кроме того, в процессе я попробовала еще некоторые варианты __без использования скриптов__:
   
   * Анимация внутри текстовой маски через изменение stroke-width
   
