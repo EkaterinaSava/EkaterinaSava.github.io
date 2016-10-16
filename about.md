@@ -9,4 +9,4 @@ Hi!
 
 ---
 
-##### Email me: [ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
+##### E-mail me → [ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
