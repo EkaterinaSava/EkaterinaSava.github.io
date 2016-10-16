@@ -21,7 +21,7 @@ body {
   background: $white;
   font-family: $roboto;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 16px;
   color: $darkGray;
   display: -webkit-box;
   display: -webkit-flex;
@@ -146,6 +146,9 @@ hr {
   margin-bottom: 25px;
   background: rgba(136,136,136,0.1);
   border: 0;
+}
+p strong {
+
 }
 
 // Fixes images in popup boxes from Google Translate
