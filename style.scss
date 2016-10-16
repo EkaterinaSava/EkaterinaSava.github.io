@@ -103,6 +103,7 @@ ul {
 }
 ul li {
   margin: 8px 0;
+  letter-spacing: 1.5em;
   ul {
     li {
       margin: 3px 0;
@@ -112,6 +113,10 @@ ul li {
 
 ol {
   list-style-type: decimal;
+}
+
+ol li {
+  letter-spacing: 1.5em;
 }
 
 ol ul, ul ol, ul ul, ol ol {
