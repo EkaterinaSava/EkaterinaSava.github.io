@@ -195,9 +195,11 @@ hr {
 }
 
 .header {
-  padding: 35px 0
+
 }
 .header__inner {
+  min-height: 150px;
+  padding: 35px 0;
   position: relative;
 }
 .header__inner:after {
@@ -208,6 +210,7 @@ hr {
   height: 1px;
   background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
   background-size: 100% 1px;
+  opacity: .3;
 }
 
 .site-avatar {
