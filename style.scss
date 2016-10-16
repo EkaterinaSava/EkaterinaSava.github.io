@@ -196,20 +196,18 @@ hr {
 
 .header {
   padding: 35px 0
-
-  &__inner {
-    position: relative;
-
-    &:after {
-      content: '';
-      position: absolute;
-      left: 0;
-      right: 0;
-      height: 1px;
-      background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
-      background-size: 100% 1px;
-    }
-  }
+}
+.header__inner {
+  position: relative;
+}
+.header__inner:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
+  background-size: 100% 1px;
 }
 
 .site-avatar {
