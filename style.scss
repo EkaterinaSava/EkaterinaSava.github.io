@@ -323,6 +323,18 @@ footer {
   }
 }
 
+/*** avatar styles ***/
+.site-avatar {
+  position: relative;
+
+  &__img {
+    display: block;
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    transform: translate(-50%,-50%);
+  }
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
