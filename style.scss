@@ -186,21 +186,27 @@ hr {
 }
 
 .masthead {
-  padding: 35px 0;
-  position: relative;
-
-  &:after {
-    content: '';
-    position: absolute;
-    left: 0;
-    right: 0;
-    height: 1px;
-    background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
-    background-size: 100% 1px;
-  }
 
   @include mobile {
     text-align: center;
+  }
+}
+
+.header {
+  padding: 35px 0
+
+  &__inner {
+    position: relative;
+
+    &:after {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      height: 1px;
+      background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
+      background-size: 100% 1px;
+    }
   }
 }
 
