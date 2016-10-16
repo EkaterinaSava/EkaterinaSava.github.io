@@ -80,6 +80,7 @@ h4 {
 }
 
 p {
+  line-height: 1.5em;
   margin: 15px 0;
 }
 
@@ -262,13 +263,13 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 45px;
     color: $darkGray;
     text-align: right;
     font-family: $roboto;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    font-weight: 500;
+    font-weight: 300;
     font-size: 19px;
     line-height: 25px;
 
