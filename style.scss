@@ -250,11 +250,6 @@ hr {
 }
 
 nav {
-  font-family: $roboto;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  font-weight: 500;
-  font-size: 19px;
   position: absolute;
   right: 0;
   top: 30px;
@@ -270,8 +265,11 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+    font-family: $roboto;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 500;
+    font-size: 19px;
 
     @include mobile {
       margin: 0 10px;
