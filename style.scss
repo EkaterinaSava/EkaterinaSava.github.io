@@ -185,8 +185,9 @@ hr {
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 35px 0;
   border-bottom: 1px solid $lightGray;
+  position: relative;
 
   @include mobile {
     text-align: center;
@@ -226,10 +227,12 @@ hr {
   cursor: pointer;
   font-family: $roboto;
   font-weight: 500;
-  font-size: 24px;
-  letter-spacing: 0.5em;
-  margin-top: -7px;
-  margin-bottom: 6px;
+  font-size: 19px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-top: -4px;
+  margin-bottom: 17px;
+
   a {
     transition: color .55s;
   }
@@ -247,10 +250,14 @@ hr {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  font-family: $roboto;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  font-size: 19px;
+  position: absolute;
+  right:0;
+  top: 30px;
 
   @include mobile {
     float: none;
