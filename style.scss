@@ -60,7 +60,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 36px;
+  margin-top: 1em;
+  margin-bottom: 1em;
   a {
     color: inherit;
   }
@@ -142,13 +144,14 @@ img {
 }
 hr {
   height: 1px;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin-top: 45px;
+  margin-bottom: 45px;
   background: rgba(136,136,136,0.1);
   border: 0;
 }
 p strong {
-  font-size: 20px;
+  font-size: 24px;
+  line-height: 1.5em;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -192,7 +195,7 @@ p strong {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 75px;
 }
 
 .masthead {
