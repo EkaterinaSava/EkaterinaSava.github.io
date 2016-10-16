@@ -103,7 +103,7 @@ ul {
 }
 ul li {
   margin: 8px 0;
-  letter-spacing: 1.5em;
+  line-height: 1.5em;
   ul {
     li {
       margin: 3px 0;
@@ -116,7 +116,7 @@ ol {
 }
 
 ol li {
-  letter-spacing: 1.5em;
+  line-height: 1.5em;
 }
 
 ol ul, ul ol, ul ul, ol ol {
