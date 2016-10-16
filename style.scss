@@ -127,7 +127,9 @@ em, i {
 }
 
 strong, b {
-  font-weight: bold;
+  font-family: $lobster;
+  font-weight: 400;
+  letter-spacing: 0.05em;
 }
 
 img {
