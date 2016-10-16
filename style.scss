@@ -356,8 +356,8 @@ nav {
   opacity: .1;
 }
 
-.posts > .post:last-child {
-  border-bottom: none;
+.posts > .post:last-child:after {
+  display: none;
 }
 
 .post {
