@@ -312,9 +312,20 @@ nav {
     font-style: italic;
   }
 
+  &__heading {
+    font-family: $roboto;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    font-size: 14px;
+
+    &-link {
+
+    }
+  }
   .comments {
     margin-top: 10px;
   }
+
 
   .read-more {
     text-transform: uppercase;
