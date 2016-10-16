@@ -272,15 +272,15 @@ nav {
   }
 
   a {
-    margin-left: 45px;
+    margin-left: 25px;
     color: $darkGray;
     text-align: right;
     font-family: $roboto;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
-    font-weight: 300;
-    font-size: 19px;
-    line-height: 25px;
+    letter-spacing: 0.05em;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 28px;
 
     @include mobile {
       margin: 0 10px;
@@ -315,8 +315,8 @@ nav {
   &__heading {
     font-family: $lobster;
     font-weight: 400;
-    letter-spacing: 0.01em;
-    font-size: 16px;
+    letter-spacing: 0.05em;
+    font-size: 26px;
 
     &-link {
 
