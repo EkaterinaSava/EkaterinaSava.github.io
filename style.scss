@@ -19,7 +19,9 @@ html {
 
 body {
   background: $white;
-  font: 16px/1.4 $helvetica;
+  font-family: $roboto;
+  font-weight: 300;
+  font-size: 14px;
   color: $darkGray;
   display: -webkit-box;
   display: -webkit-flex;
@@ -35,7 +37,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 800px;
   padding: 0 10px;
   width: 100%;
   -webkit-box-flex: 1;
@@ -45,10 +47,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $roboto;
   color: $darkerGray;
-  font-weight: bold;
-
+  font-weight: 500;
   line-height: 1.2;
   margin: 1em 0 15px;
   padding: 0;
