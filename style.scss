@@ -47,9 +47,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $lobster;
+  font-family: $roboto;
   color: $darkerGray;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1.2;
   margin: 1em 0 15px;
   padding: 0;
@@ -235,7 +235,7 @@ hr {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $lobster;
+  font-family: $roboto;
   font-weight: 500;
   font-size: 19px;
   text-transform: uppercase;
@@ -275,7 +275,7 @@ nav {
     margin-left: 45px;
     color: $darkGray;
     text-align: right;
-    font-family: $lobster;
+    font-family: $roboto;
     text-transform: uppercase;
     letter-spacing: 0.08em;
     font-weight: 300;
@@ -316,7 +316,7 @@ nav {
     font-family: $lobster;
     font-weight: 400;
     letter-spacing: 0.01em;
-    font-size: 14px;
+    font-size: 16px;
 
     &-link {
 
@@ -335,7 +335,7 @@ nav {
     text-transform: uppercase;
     font-size: 10px;
     letter-spacing: .08em;
-    font-family: $lobster;
+    font-weight: 500;
   }
 }
 
