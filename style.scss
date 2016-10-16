@@ -224,10 +224,10 @@ hr {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
-  font-size: 30px;
-  letter-spacing: 1px;
+  font-family: $roboto;
+  font-weight: 500;
+  font-size: 24px;
+  letter-spacing: 0.5em;
   margin-top: -7px;
   margin-bottom: 6px;
   a {
@@ -238,7 +238,8 @@ hr {
 .site-description {
   margin: -1px 0 0 0;
   color: $gray;
-  font-size: 15px;
+  font-size: 14px;
+  line-height: 21px;
 
   @include mobile {
     margin: 3px 0;
