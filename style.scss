@@ -249,7 +249,7 @@ h2.post__small-heading {
   width: 70px;
   height: 70px;
   margin-right: 15px;
-  transition: transform .5s ease;
+  //transition: transform .5s ease;
 
   @include mobile {
     float: none;
@@ -261,9 +261,9 @@ h2.post__small-heading {
     border-radius: 5px;
   }
 
-  &:hover {
-    transform: scale(1.2);
-  }
+  //&:hover {
+  //  transform: scale(1.2);
+  //}
 }
 
 .site-info {
@@ -273,6 +273,10 @@ h2.post__small-heading {
     float: none;
     display: block;
     margin: 0 auto;
+  }
+
+  &__link {
+    display: block;
   }
 }
 
