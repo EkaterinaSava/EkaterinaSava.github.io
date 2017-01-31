@@ -150,6 +150,12 @@ sup {
   line-height: 0;
   position: relative;
   vertical-align: baseline;
+
+  /* styles for emoji in sup */
+  & img {
+    height: 12px;
+    width: 12px;
+  }
 }
 
 /* separator */
