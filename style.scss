@@ -136,12 +136,20 @@ em, i {
 
 strong, b {
   // font-family: $lobster;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: 0.05em;
 }
 
 img {
   max-width: 100%;
+}
+
+sup {
+  top: -0.5em;
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
 }
 
 /* separator */
