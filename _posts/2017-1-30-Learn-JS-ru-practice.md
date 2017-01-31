@@ -28,13 +28,13 @@ title: Learn.JavaScript.ru Practice
   * Операторы сравнения и логические значения
 
   Решения задач:
-  1. Выведите alert
-  2. Вывести alert внешним скриптом
-  3. Какой скрипт выполнится первым?
-  4. Работа с переменными
-  5. Объявление переменных
-  6. Инкремент, порядок срабатывания
-  7. Результат присваивания
+  1. Выведите alert [:link:](https://learn.javascript.ru/task/hello-alert)
+  2. Вывести alert внешним скриптом [:link:](https://learn.javascript.ru/task/hello-alert-ext)
+  3. Какой скрипт выполнится первым? [:link:](https://learn.javascript.ru/task/async-defer-first)
+  4. Работа с переменными [:link:](https://learn.javascript.ru/task/hello-variables)
+  5. Объявление переменных [:link:](https://learn.javascript.ru/task/declare-variables)
+  6. Инкремент, порядок срабатывания [:link:](https://learn.javascript.ru/task/increment-order)
+  7. Результат присваивания [:link:](https://learn.javascript.ru/task/assignment-result)
 
 ---  
 
