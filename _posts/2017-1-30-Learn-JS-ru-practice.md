@@ -29,6 +29,8 @@ title: Learn.JavaScript.ru Practice
 
   Решения задач:
   1. Выведите alert [:link:](https://learn.javascript.ru/task/hello-alert)
+  http://embed.plnkr.co/yB95zryKue30HUzsoEs2/
+  
   2. Вывести alert внешним скриптом [:link:](https://learn.javascript.ru/task/hello-alert-ext)
   3. Какой скрипт выполнится первым? [:link:](https://learn.javascript.ru/task/async-defer-first)
   4. Работа с переменными [:link:](https://learn.javascript.ru/task/hello-variables)
