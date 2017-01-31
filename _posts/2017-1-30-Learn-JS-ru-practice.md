@@ -30,7 +30,10 @@ title: Learn.JavaScript.ru Practice
   Решения задач:
 
   1. Выведите alert [:link:](https://learn.javascript.ru/task/hello-alert)
+
   http://embed.plnkr.co/yB95zryKue30HUzsoEs2/
+
+  <script src="https://gist.github.com/anonymous/12fbbee74aedfdf17b74eda3610b3aec.js"></script>
 
   2. Вывести alert внешним скриптом [:link:](https://learn.javascript.ru/task/hello-alert-ext)
 
@@ -41,7 +44,7 @@ title: Learn.JavaScript.ru Practice
   5. Объявление переменных [:link:](https://learn.javascript.ru/task/declare-variables)
 
   6. Инкремент, порядок срабатывания [:link:](https://learn.javascript.ru/task/increment-order)
-  
+
   7. Результат присваивания [:link:](https://learn.javascript.ru/task/assignment-result)
 
 ---  
