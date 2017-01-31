@@ -30,10 +30,7 @@ title: Learn.JavaScript.ru Practice
   Решения задач:
 
   1. Выведите alert [:link:](https://learn.javascript.ru/task/hello-alert)
-
-  http://embed.plnkr.co/yB95zryKue30HUzsoEs2/
-
-  <script src="https://gist.github.com/anonymous/12fbbee74aedfdf17b74eda3610b3aec.js"></script>
+  <a class="jsbin-embed" href="https://jsbin.com/venolos/embed?html,output">learn.javascript.ru practice on jsbin.com</a><script src="https://static.jsbin.com/js/embed.min.js?3.41.0"></script>
 
   2. Вывести alert внешним скриптом [:link:](https://learn.javascript.ru/task/hello-alert-ext)
 
