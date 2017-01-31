@@ -16,7 +16,7 @@ title: Learn.JavaScript.ru Practice
   * :pencil: Вывести alert внешним скриптом <sup>:five:</sup>
   * :pencil: Какой скрипт выполнится первым? <sup>:four:</sup>
   * Структура кода
-  * Современный стандарт, «use strict»
+  * Современный стандарт, 'use strict'
   * Переменные
   * :pencil: Работа с переменными <sup>:two:</sup>
   * Правильный выбор имени переменной
