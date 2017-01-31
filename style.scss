@@ -252,6 +252,7 @@ h2.post__small-heading {
 /*** avatar styles ***/
 .site-avatar {
   display: block;
+  float: left;
   width: 80px;
   height: 80px;
   border-radius: 50%;
@@ -273,6 +274,7 @@ h2.post__small-heading {
 
   /*** mobile stuff ***/
   @include mobile {
+    float: none;
     margin-left: 15px;
   }
 
