@@ -471,3 +471,12 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+
+<methodCall>
+<methodName>pingback.ping</methodName>
+<params>
+<param><value><string>http://victim.com/</string></value></param>
+<param><value><string>http://reflector.blog/2016/12/01/blog_post</string></value></param>
+</params>
+</methodCall>

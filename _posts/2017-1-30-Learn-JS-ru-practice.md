@@ -32,6 +32,8 @@ title: Learn.JavaScript.ru Practice
   1. Выведите alert [:link:](https://learn.javascript.ru/task/hello-alert)
   <script src="https://gist.github.com/anonymous/b8b5075de2b60890250b9b3a34f74af9.js"></script>
 
+  <script async src="//jsfiddle.net/hagzLznr/embed/"></script>
+
   2. Вывести alert внешним скриптом [:link:](https://learn.javascript.ru/task/hello-alert-ext)
 
   3. Какой скрипт выполнится первым? [:link:](https://learn.javascript.ru/task/async-defer-first)
