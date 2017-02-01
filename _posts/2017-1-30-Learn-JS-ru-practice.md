@@ -36,6 +36,8 @@ title: Learn.JavaScript.ru Practice
 
   <script async src="//jsfiddle.net/ekaterinasava/r2ye1r3m/embed/html,result/"></script>
 
+  <iframe width="100%" height="300" src="//jsfiddle.net/ekaterinasava/r2ye1r3m/embedded/html,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+
   2. Вывести alert внешним скриптом [:link:](https://learn.javascript.ru/task/hello-alert-ext)
 
   3. Какой скрипт выполнится первым? [:link:](https://learn.javascript.ru/task/async-defer-first)
