@@ -30,13 +30,8 @@ title: Learn.JavaScript.ru Practice
   Решения задач:
 
   1. Выведите alert [:link:](https://learn.javascript.ru/task/hello-alert)
-  <script src="https://gist.github.com/anonymous/b8b5075de2b60890250b9b3a34f74af9.js"></script>
-
-  <script async src="//jsfiddle.net/hagzLznr/embed/"></script>
 
   <script async src="//jsfiddle.net/ekaterinasava/r2ye1r3m/embed/html,result/"></script>
-
-  <iframe width="100%" height="300" src="//jsfiddle.net/ekaterinasava/r2ye1r3m/embedded/html,result/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
   2. Вывести alert внешним скриптом [:link:](https://learn.javascript.ru/task/hello-alert-ext)
 
