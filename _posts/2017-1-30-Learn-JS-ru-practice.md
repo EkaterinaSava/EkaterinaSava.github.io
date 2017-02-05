@@ -31,23 +31,56 @@ title: Learn.JavaScript.ru Practice
 
   1. Выведите alert [:link:](https://learn.javascript.ru/task/hello-alert)
 
-  <script async src="//jsfiddle.net/ekaterinasava/r2ye1r3m/embed/html,result/"></script>
+  <script async src="//jsfiddle.net/ekaterinasava/mvcrsc49/embed/html,result/"></script>
 
   2. Вывести alert внешним скриптом [:link:](https://learn.javascript.ru/task/hello-alert-ext)
 
+  <script async src="//jsfiddle.net/ekaterinasava/av97cted/embed/js,html,result/"></script>
+
   3. Какой скрипт выполнится первым? [:link:](https://learn.javascript.ru/task/async-defer-first)
+
+  <script async src="//jsfiddle.net/ekaterinasava/0j6qr1e6/embed/html,result/"></script>
 
   4. Работа с переменными [:link:](https://learn.javascript.ru/task/hello-variables)
 
+  <script async src="//jsfiddle.net/ekaterinasava/fwsggLb3/embed/js,result/"></script>
+
   5. Объявление переменных [:link:](https://learn.javascript.ru/task/declare-variables)
+
+  <script async src="//jsfiddle.net/ekaterinasava/20pfkcg3/embed/js,result/"></script>
 
   6. Инкремент, порядок срабатывания [:link:](https://learn.javascript.ru/task/increment-order)
 
+  <script async src="//jsfiddle.net/ekaterinasava/u1z8smo1/embed/js,result/"></script>
+
   7. Результат присваивания [:link:](https://learn.javascript.ru/task/assignment-result)
+
+  <script async src="//jsfiddle.net/ekaterinasava/ko9bv8jt/embed/js,result/"></script>
 
 ---  
 
   <h2 class="post__small-heading">Занятие 2 – 02/02/2017</h2>
-  ...
+  Темы (теория + задачи) для изучения "на дом".
+
+  * Автоматические тесты при помощи chai и mocha
+  * :pencil: Сделать pow по спецификации <sup>:five:</sup>
+  * :pencil: Добавьте тест к задаче <sup>:five:</sup>
+  * :pencil: Что не так в тесте? <sup>:five:</sup>
+  * Введение в методы и свойства
+  * Числа
+  * :pencil: Интерфейс суммы <sup>:five:</sup>
+  * :pencil: Почему 6.35.toFixed(1) == 6.3? <sup>:four:</sup>
+  * :pencil: Сложение цен <sup>:five:</sup>
+  * :pencil: Бесконечный цикл по ошибке <sup>:four:</sup>
+  * :pencil: Как получить дробную часть числа? <sup>:four:</sup>
+  * :pencil: Формула Бине <sup>:four:</sup>
+  * :pencil: Случайное из интервала (0, max) <sup>:two:</sup>
+  * :pencil: Случайное из интервала (min, max) <sup>:two:</sup>
+  * :pencil: Случайное целое от min до max <sup>:two:</sup>
+  * Строки
+  * :pencil: Сделать первый символ заглавным <sup>:five:</sup>
+  * :pencil: Проверьте спам <sup>:five:</sup>
+  * :pencil: Усечение строки <sup>:five:</sup>
+  * :pencil: Выделить число <sup>:four:</sup>
 
 ---
