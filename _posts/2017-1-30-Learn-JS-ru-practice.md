@@ -83,4 +83,46 @@ title: Learn.JavaScript.ru Practice
   * :pencil: Усечение строки <sup>:five:</sup>
   * :pencil: Выделить число <sup>:four:</sup>
 
+  Решения задач:
+
+  1. Сделать pow по спецификации [:link:]()
+
+  2. Добавьте тест к задаче [:link:]()
+
+  3. Что не так в тесте? [:link:]()
+
+  4. Интерфейс суммы [:link:](https://learn.javascript.ru/task/sum-interface)
+
+  <script async src="//jsfiddle.net/ekaterinasava/t79q0wmo/embed/js,result/"></script>
+
+  5. Почему 6.35.toFixed(1) == 6.3? [:link:](https://learn.javascript.ru/task/why-rounded-down)
+
+  <script async src="//jsfiddle.net/ekaterinasava/2dka1ckm/embed/js,html,result/"></script>
+
+  6. Сложение цен [:link:](https://learn.javascript.ru/task/sum-prices)
+
+  <script async src="//jsfiddle.net/ekaterinasava/qytx4b1f/embed/js,result/"></script>
+
+  7. Бесконечный цикл по ошибке [:link:](https://learn.javascript.ru/task/endless-loop-error)
+
+  <script async src="//jsfiddle.net/ekaterinasava/22r6cv99/embed/js,html,result/"></script>
+
+  8. Как получить дробную часть числа? [:link:]()
+
+  9. Формула Бине [:link:]()
+
+  10. Случайное из интервала (0, max) [:link:]()
+
+  11. Случайное из интервала (min, max) [:link:]()
+
+  12. Случайное целое от min до max [:link:]()
+
+  13. Сделать первый символ заглавным [:link:]()
+
+  14. Проверьте спам [:link:]()
+
+  15. Усечение строки [:link:]()
+
+  16. Выделить число [:link:]()
+
 ---
