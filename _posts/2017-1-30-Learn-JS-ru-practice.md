@@ -127,8 +127,6 @@ title: Learn.JavaScript.ru Practice
 
 ---
 
----  
-
   <h2 class="post__small-heading">Занятие 3 – 06/02/2017</h2>
 
   Теория:
@@ -194,13 +192,10 @@ title: Learn.JavaScript.ru Practice
 
 ---
 
----  
 
   <h2 class="post__small-heading">Занятие 4 – 09/02/2017</h2>
 
 ---
-
----  
 
   <h2 class="post__small-heading">Занятие 5 – 13/02/2017</h2>
 
@@ -238,8 +233,6 @@ title: Learn.JavaScript.ru Practice
 
 ---
 
----  
-
   <h2 class="post__small-heading">Занятие 6 – 16/02/2017</h2>  
 
   <h4 class="post__small-subheading">Методы объектов и контекст вызова</h4>
@@ -271,8 +264,6 @@ title: Learn.JavaScript.ru Practice
     - :pencil: Добавить get/set-свойства
 
 ---
-
----  
 
   <h2 class="post__small-heading">Занятие 7 – 20/02/2017</h2>  
 
@@ -321,8 +312,6 @@ title: Learn.JavaScript.ru Practice
 
 ---
 
----  
-
   <h2 class="post__small-heading">Занятие 8 – 27/02/2017</h2>  
 
   <h4 class="post__small-subheading">ООП в прототипном стиле</h4>
@@ -364,13 +353,9 @@ title: Learn.JavaScript.ru Practice
 
   * Примеси
 
----
-
 ---  
 
   <h1 class="post__heading">Часть 2. Документ, события, интерфейсы</h1>
-
----
 
 ---
 
@@ -460,8 +445,6 @@ title: Learn.JavaScript.ru Practice
 
 ---
 
----
-
   <h2 class="post__small-heading">Занятие 10 – 06/03/2017</h2>  
 
   <h4 class="post__small-subheading">Повтор тем на дом:</h4>
@@ -469,8 +452,6 @@ title: Learn.JavaScript.ru Practice
   * Прототипы
   * Объекты и массивы
   * Функции и контекст
-
----
 
 ---
 
