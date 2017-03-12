@@ -195,10 +195,6 @@ title: Learn.JavaScript.ru Practice
 
   <h2 class="post__small-heading">Занятие 4 – 09/02/2017</h2>
 
----
-
-  <h2 class="post__small-heading">Занятие 5 – 13/02/2017</h2>
-
   * Глобальный объект
     - :pencil: Window и переменная <sup>:five:</sup> [:link:]()
     - :pencil: Window и переменная <sup>:two:</sup> [:link:]()
@@ -213,6 +209,17 @@ title: Learn.JavaScript.ru Practice
     - :pencil: Глобальный счётчик [:link:]()
   * [[Scope]] для new Function
 
+---
+
+  <h2 class="post__small-heading">Занятие 5 – 13/02/2017</h2>
+
+  * Повтор тем с прошлого занятия:
+    * Глобальный объект
+    * Замыкания, функции изнутри
+    * [[Scope]] для new Function
+
+  Плюс:
+    
   * Локальные переменные для объекта
     - :pencil: Сумма через замыкание [:link:]()
     - :pencil: Функция - строковый буфер [:link:]()
@@ -222,7 +229,6 @@ title: Learn.JavaScript.ru Practice
     - :pencil: Армия функций [:link:]()
 
   * Модули через замыкания
-
 
   <div class="task task--disabled">
     * Управление памятью в JavaScript
