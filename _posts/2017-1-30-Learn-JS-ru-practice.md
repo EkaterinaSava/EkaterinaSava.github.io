@@ -219,7 +219,7 @@ title: Learn.JavaScript.ru Practice
     * [[Scope]] для new Function
 
   Плюс:
-    
+
   * Локальные переменные для объекта
     - :pencil: Сумма через замыкание [:link:]()
     - :pencil: Функция - строковый буфер [:link:]()
@@ -466,12 +466,33 @@ title: Learn.JavaScript.ru Practice
   <h4 class="post__small-subheading">Основы работы с событиями</h4>
 
   * Введение в браузерные события
-    - :pencil: Спрятать при клике
-    - :pencil: Спрятаться
-    - :pencil: Какие обработчики сработают?
-    - :pencil: Раскрывающееся меню
-    - :pencil: Спрятать сообщение
-    - :pencil: Карусель
+    - :pencil: Спрятать при клике <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-other)
+
+    <script async src="//jsfiddle.net/ekaterinasava/t4xqx0zs/embed/"></script>
+
+    - :pencil: Спрятаться <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-self-onclick)
+
+    <script async src="//jsfiddle.net/ekaterinasava/2kf5v5mu/embed/"></script>
+
+    - :pencil: Какие обработчики сработают? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/which-handlers-run)
+
+    <script async src="//jsfiddle.net/ekaterinasava/c0h8zzkL/embed/js,html,result/"></script>
+
+    - :pencil: Раскрывающееся меню <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/sliding-menu)
+
+    <script async src="//jsfiddle.net/ekaterinasava/L1shyxgj/embed/"></script>
+
+    - :pencil: Спрятать сообщение <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-message)
+
+    <script async src="//jsfiddle.net/ekaterinasava/fb8tdbx8/embed/"></script>
+
+    - :pencil: Карусель <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/carousel)
+
+    <script async src="//jsfiddle.net/ekaterinasava/x54qry1w/embed/"></script>
+
   * Порядок обработки событий
+
   * Объект события
-    - :pencil: Передвигать мяч по полю
+    - :pencil: Передвигать мяч по полю <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/move-ball-field)
+
+    <script async src="//jsfiddle.net/ekaterinasava/00yf5vum/embed/"></script>
