@@ -418,60 +418,96 @@ title: Learn.JavaScript.ru Practice
     :pencil: #11 Получить второй LI
 
   * Свойства узлов: тип, тег и содержимое
+  
     :pencil: Что выведет код в консоли?
+
     :pencil: В инлайн скрипте lastChild.nodeType
+
     :pencil: Тег в комментарии
+
     :pencil: Где в DOM-иерархии document?
 
   * Современный DOM: полифиллы
+
     :pencil: Полифилл для matches
+
     :pencil: Полифилл для closest
+
     :pencil: Полифилл для textContent
 
   * Атрибуты и DOM-свойства
+
     :pencil: Получите пользовательский атрибут
+
     :pencil: Поставьте класс ссылкам
+
     :pencil: Методы contains и compareDocumentPosition
+
     :pencil: Добавление и удаление узлов
+
     :pencil: createTextNode vs innerHTML
+
     :pencil: Удаление элементов
+
     :pencil: insertAfter
+
     :pencil: removeChildren
+
     :pencil: Почему остаётся "ааа" ?
+
     :pencil: Создать список
+
     :pencil: Создайте дерево из объекта
+
     :pencil: Дерево
+
     :pencil: Создать календарь в виде таблицы
+
     :pencil: Часики с использованием "setInterval"
 
   * Мультивставка: insertAdjacentHTML и DocumentFragment
+
     :pencil: Вставьте элементы в конец списка
+
     :pencil: Отсортировать таблицу
 
   * Метод document.write
 
   * Стили, getComputedStyle
+
     :pencil: Скругленая кнопка со стилями из JavaScript
+
     :pencil: Создать уведомление
 
   * Размеры и прокрутка элементов
+
     :pencil: Найти размер прокрутки снизу
+
     :pencil: Узнать ширину полосы прокрутки
+
     :pencil: Подменить div на другой с таким же размером
+
     :pencil: Поместите мяч в центр поля
+
     :pencil: Расширить элемент
+
     :pencil: В чём отличие "width" и "clientWidth" ?
 
   * Размеры и прокрутка страницы
+
     :pencil: Полифилл для pageYOffset в IE8
 
   * Координаты в окне
     :pencil: Найдите координаты точки в документе
+
     :pencil: Разместить заметку рядом с элементом
 
   * Координаты в документе
+
     :pencil: Область видимости для документа
+
     :pencil: Разместить заметку рядом с элементом (absolute)
+
     :pencil: Разместить заметку внутри элемента
 
 ---
@@ -491,6 +527,7 @@ title: Learn.JavaScript.ru Practice
   <h4 class="post__small-subheading">Основы работы с событиями</h4>
 
   * Введение в браузерные события
+
     :pencil: Спрятать при клике <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-other)
 
     <script async src="//jsfiddle.net/ekaterinasava/t4xqx0zs/embed/"></script>
@@ -518,6 +555,7 @@ title: Learn.JavaScript.ru Practice
   * Порядок обработки событий
 
   * Объект события
+
     :pencil: Передвигать мяч по полю <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/move-ball-field)
 
     <script async src="//jsfiddle.net/ekaterinasava/00yf5vum/embed/"></script>
@@ -529,6 +567,7 @@ title: Learn.JavaScript.ru Practice
   <h4 class="post__small-subheading">Основы работы с событиями</h4>
 
   * Делегирование событий
+
     :pencil: Скрытие сообщения с помощью делегирования <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-message-delegate)
 
     <script async src="//jsfiddle.net/ekaterinasava/qc0dp78q/embed/"></script>
@@ -542,57 +581,85 @@ title: Learn.JavaScript.ru Practice
     --
 
   * Приём проектирования "поведение"
+
     :pencil: Поведение "подсказка"
 
   * Действия браузера по умолчанию
+
     :pencil: Почему не работает return false?
+
     :pencil: Поймайте переход по ссылке
+
     :pencil: Галерея изображений
 
   * Генерация событий на элементах
 
+  –––ы
+
   <h4 class="post__small-subheading">События в деталях</h4>
 
-
   * Мышь: клики, кнопка, координаты
+
     :pencil: Список с выделением
+
     :pencil: Дерево: проверка клика на заголовке
 
   * Мышь: отмена выделения, невыделяемые элементы
 
   * Мышь: движение mouseover/out, mouseenter/leave
+
     :pencil: Поведение "вложенная подсказка"
+
     :pencil: Подсказка при замедлении над элементом
 
   * Мышь: Drag'n'Drop
+
     :pencil: Слайдер
+
     :pencil: Расставить супергероев по полю
 
   * Мышь: Drag'n'Drop более глубоко
 
   * Мышь: колёсико, событие wheel
+
     :pencil: Масштабирование колёсиком мыши
+
     :pencil: Прокрутка без влияния на страницу
 
   * Мышь: IE8-, исправление события
 
   * Прокрутка: событие scroll
+
     :pencil: Аватар наверху при прокрутке
+
     :pencil: Кнопка вверх-вниз
+
     :pencil: Загрузка видимых изображений
 
   * Клавиатура: keyup, keydown, keypress
+
     :pencil: Поле только для цифр
+
     :pencil: Отследить одновременное нажатие
 
   * Загрузка документа: DOMContentLoaded, load, beforeunload, unload
 
   * Загрузка скриптов, картинок, фреймов: onload и onerror
+
     :pencil: Красивый "ALT"
+
     :pencil: Загрузить изображения с коллбэком
+
     :pencil: Скрипт с коллбэком
+
     :pencil: Скрипты с коллбэком
 
 ---
 
   <h2 class="post__small-heading">Занятие 13 – 16/03/2017</h2>  
+
+  Было отменено, преподаватель заболел. На дом – темы с прошлого занятия.
+
+---
+
+  <h2 class="post__small-heading">Занятие 14 – 20/03/2017</h2>  
