@@ -372,82 +372,107 @@ title: Learn.JavaScript.ru Practice
   * Окружение: DOM, BOM и JS
 
   * Дерево DOM
-    - :pencil: Что выведет этот alert?
+    :pencil: #1 Что выведет этот alert? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/body-from-head)
+
+    <script async src="//jsfiddle.net/ekaterinasava/edL6ajLk/embed/"></script>
 
   * Работа с DOM из консоли
 
   * Навигация по DOM-элементам
-    - :pencil: DOM children
-    - :pencil: Проверка существования детей
-    - :pencil: Вопрос по навигационным ссылкам
-    - :pencil: Выделите ячейки по диагонали
+    :pencil: #2 DOM children <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/dom-children)
+
+    <script async src="//jsfiddle.net/ekaterinasava/4gqvc8gv/embed/js,html,result/"></script>
+
+    :pencil: #3 Проверка существования детей <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/has-childnodes)
+
+    <script async src="//jsfiddle.net/ekaterinasava/eat8Le0p/embed/js,html,result/"></script>
+
+    :pencil: #4 Вопрос по навигационным ссылкам <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/navigation-links-which-null)
+
+    <script async src="//jsfiddle.net/ekaterinasava/gxa8qkvu/embed/html,result/"></script>
+
+    :pencil: #5 Выделите ячейки по диагонали <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/select-diagonal-cells)
+
+    <script async src="//jsfiddle.net/ekaterinasava/udygnxo0/embed/"></script>
 
   * Поиск: getElement* и querySelector* и не только
-    - :pencil: Поиск элементов
-    - :pencil: Дерево
+    :pencil: #6 Поиск элементов <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/find-elements)
+
+    <script async src="//jsfiddle.net/ekaterinasava/nozj2tky/embed/js,html,result/"></script>
+
+    :pencil: #7 Дерево <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/tree-info)
+
+    <script async src="//jsfiddle.net/ekaterinasava/jer01uaj/embed/js,html,result/"></script>
 
   * Внутреннее устройство поисковых методов
-    - :pencil: Длина коллекции после удаления элементов
-    - :pencil: Сравнение количества элементов
-    - :pencil: Бенчмаркинг методов поиска в DOM
-    - :pencil: Получить второй LI
+    :pencil: #8 Длина коллекции после удаления элементов http://learn.javascript.ru/task/collection-length-after-remove
+
+    <script async src="//jsfiddle.net/ekaterinasava/Lwmghth7/embed/js,html,result/"></script>
+
+    :pencil: #9 Сравнение количества элементов <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/compare-elements-count)
+
+
+    :pencil: #10 Бенчмаркинг методов поиска в DOM <sup>:two:</sup> [:link:](http://learn.javascript.ru/task/benchmark-search-dom)
+
+
+    :pencil: #11 Получить второй LI
 
   * Свойства узлов: тип, тег и содержимое
-    - :pencil: Что выведет код в консоли?
-    - :pencil: В инлайн скрипте lastChild.nodeType
-    - :pencil: Тег в комментарии
-    - :pencil: Где в DOM-иерархии document?
+    :pencil: Что выведет код в консоли?
+    :pencil: В инлайн скрипте lastChild.nodeType
+    :pencil: Тег в комментарии
+    :pencil: Где в DOM-иерархии document?
 
   * Современный DOM: полифиллы
-    - :pencil: Полифилл для matches
-    - :pencil: Полифилл для closest
-    - :pencil: Полифилл для textContent
+    :pencil: Полифилл для matches
+    :pencil: Полифилл для closest
+    :pencil: Полифилл для textContent
 
   * Атрибуты и DOM-свойства
-    - :pencil: Получите пользовательский атрибут
-    - :pencil: Поставьте класс ссылкам
-    - :pencil: Методы contains и compareDocumentPosition
-    - :pencil: Добавление и удаление узлов
-    - :pencil: createTextNode vs innerHTML
-    - :pencil: Удаление элементов
-    - :pencil: insertAfter
-    - :pencil: removeChildren
-    - :pencil: Почему остаётся "ааа" ?
-    - :pencil: Создать список
-    - :pencil: Создайте дерево из объекта
-    - :pencil: Дерево
-    - :pencil: Создать календарь в виде таблицы
-    - :pencil: Часики с использованием "setInterval"
+    :pencil: Получите пользовательский атрибут
+    :pencil: Поставьте класс ссылкам
+    :pencil: Методы contains и compareDocumentPosition
+    :pencil: Добавление и удаление узлов
+    :pencil: createTextNode vs innerHTML
+    :pencil: Удаление элементов
+    :pencil: insertAfter
+    :pencil: removeChildren
+    :pencil: Почему остаётся "ааа" ?
+    :pencil: Создать список
+    :pencil: Создайте дерево из объекта
+    :pencil: Дерево
+    :pencil: Создать календарь в виде таблицы
+    :pencil: Часики с использованием "setInterval"
 
   * Мультивставка: insertAdjacentHTML и DocumentFragment
-    - :pencil: Вставьте элементы в конец списка
-    - :pencil: Отсортировать таблицу
+    :pencil: Вставьте элементы в конец списка
+    :pencil: Отсортировать таблицу
 
   * Метод document.write
 
   * Стили, getComputedStyle
-    - :pencil: Скругленая кнопка со стилями из JavaScript
-    - :pencil: Создать уведомление
+    :pencil: Скругленая кнопка со стилями из JavaScript
+    :pencil: Создать уведомление
 
   * Размеры и прокрутка элементов
-    - :pencil: Найти размер прокрутки снизу
-    - :pencil: Узнать ширину полосы прокрутки
-    - :pencil: Подменить div на другой с таким же размером
-    - :pencil: Поместите мяч в центр поля
-    - :pencil: Расширить элемент
-    - :pencil: В чём отличие "width" и "clientWidth" ?
+    :pencil: Найти размер прокрутки снизу
+    :pencil: Узнать ширину полосы прокрутки
+    :pencil: Подменить div на другой с таким же размером
+    :pencil: Поместите мяч в центр поля
+    :pencil: Расширить элемент
+    :pencil: В чём отличие "width" и "clientWidth" ?
 
   * Размеры и прокрутка страницы
-    - :pencil: Полифилл для pageYOffset в IE8
+    :pencil: Полифилл для pageYOffset в IE8
 
   * Координаты в окне
-    - :pencil: Найдите координаты точки в документе
-    - :pencil: Разместить заметку рядом с элементом
+    :pencil: Найдите координаты точки в документе
+    :pencil: Разместить заметку рядом с элементом
 
   * Координаты в документе
-    - :pencil: Область видимости для документа
-    - :pencil: Разместить заметку рядом с элементом (absolute)
-    - :pencil: Разместить заметку внутри элемента
+    :pencil: Область видимости для документа
+    :pencil: Разместить заметку рядом с элементом (absolute)
+    :pencil: Разместить заметку внутри элемента
 
 ---
 
@@ -466,33 +491,108 @@ title: Learn.JavaScript.ru Practice
   <h4 class="post__small-subheading">Основы работы с событиями</h4>
 
   * Введение в браузерные события
-    - :pencil: Спрятать при клике <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-other)
+    :pencil: Спрятать при клике <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-other)
 
     <script async src="//jsfiddle.net/ekaterinasava/t4xqx0zs/embed/"></script>
 
-    - :pencil: Спрятаться <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-self-onclick)
+    :pencil: Спрятаться <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-self-onclick)
 
     <script async src="//jsfiddle.net/ekaterinasava/2kf5v5mu/embed/"></script>
 
-    - :pencil: Какие обработчики сработают? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/which-handlers-run)
+    :pencil: Какие обработчики сработают? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/which-handlers-run)
 
     <script async src="//jsfiddle.net/ekaterinasava/c0h8zzkL/embed/js,html,result/"></script>
 
-    - :pencil: Раскрывающееся меню <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/sliding-menu)
+    :pencil: Раскрывающееся меню <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/sliding-menu)
 
     <script async src="//jsfiddle.net/ekaterinasava/L1shyxgj/embed/"></script>
 
-    - :pencil: Спрятать сообщение <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-message)
+    :pencil: Спрятать сообщение <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-message)
 
     <script async src="//jsfiddle.net/ekaterinasava/fb8tdbx8/embed/"></script>
 
-    - :pencil: Карусель <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/carousel)
+    :pencil: Карусель <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/carousel)
 
     <script async src="//jsfiddle.net/ekaterinasava/x54qry1w/embed/"></script>
 
   * Порядок обработки событий
 
   * Объект события
-    - :pencil: Передвигать мяч по полю <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/move-ball-field)
+    :pencil: Передвигать мяч по полю <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/move-ball-field)
 
     <script async src="//jsfiddle.net/ekaterinasava/00yf5vum/embed/"></script>
+
+---
+
+  <h2 class="post__small-heading">Занятие 12 – 13/03/2017</h2>  
+
+  <h4 class="post__small-subheading">Основы работы с событиями</h4>
+
+  * Делегирование событий
+    :pencil: Скрытие сообщения с помощью делегирования <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-message-delegate)
+
+    <script async src="//jsfiddle.net/ekaterinasava/qc0dp78q/embed/"></script>
+
+    :pencil: Раскрывающееся дерево <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/sliding-tree)
+
+    --
+
+    :pencil: Сортировка таблицы <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/sort-table)
+
+    --
+
+  * Приём проектирования "поведение"
+    :pencil: Поведение "подсказка"
+
+  * Действия браузера по умолчанию
+    :pencil: Почему не работает return false?
+    :pencil: Поймайте переход по ссылке
+    :pencil: Галерея изображений
+
+  * Генерация событий на элементах
+
+  <h4 class="post__small-subheading">События в деталях</h4>
+
+
+  * Мышь: клики, кнопка, координаты
+    :pencil: Список с выделением
+    :pencil: Дерево: проверка клика на заголовке
+
+  * Мышь: отмена выделения, невыделяемые элементы
+
+  * Мышь: движение mouseover/out, mouseenter/leave
+    :pencil: Поведение "вложенная подсказка"
+    :pencil: Подсказка при замедлении над элементом
+
+  * Мышь: Drag'n'Drop
+    :pencil: Слайдер
+    :pencil: Расставить супергероев по полю
+
+  * Мышь: Drag'n'Drop более глубоко
+
+  * Мышь: колёсико, событие wheel
+    :pencil: Масштабирование колёсиком мыши
+    :pencil: Прокрутка без влияния на страницу
+
+  * Мышь: IE8-, исправление события
+
+  * Прокрутка: событие scroll
+    :pencil: Аватар наверху при прокрутке
+    :pencil: Кнопка вверх-вниз
+    :pencil: Загрузка видимых изображений
+
+  * Клавиатура: keyup, keydown, keypress
+    :pencil: Поле только для цифр
+    :pencil: Отследить одновременное нажатие
+
+  * Загрузка документа: DOMContentLoaded, load, beforeunload, unload
+
+  * Загрузка скриптов, картинок, фреймов: onload и onerror
+    :pencil: Красивый "ALT"
+    :pencil: Загрузить изображения с коллбэком
+    :pencil: Скрипт с коллбэком
+    :pencil: Скрипты с коллбэком
+
+---
+
+  <h2 class="post__small-heading">Занятие 13 – 16/03/2017</h2>  
