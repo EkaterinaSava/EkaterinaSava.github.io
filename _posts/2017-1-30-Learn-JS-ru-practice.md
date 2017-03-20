@@ -3,7 +3,7 @@ layout: post
 title: Learn.JavaScript.ru Practice
 ---
 
-С 30 января по 30 марта я буду проходить обучение в рамках [курса "JavaScript/DOM/интерфейсы"](http://learn.javascript.ru/courses/js) от портала [learn.javascript.ru](http://learn.javascript.ru/). Здесь хочу вести дневник основных этапов обучения и выполнения домашних заданий. Исключительно для личной мотивации, самоконтроля и структурирования материала в голове.
+:pencil: С 30 января по 30 марта я буду проходить обучение в рамках [курса "JavaScript/DOM/интерфейсы"](http://learn.javascript.ru/courses/js) от портала [learn.javascript.ru](http://learn.javascript.ru/). Здесь хочу вести дневник основных этапов обучения и выполнения домашних заданий. Исключительно для личной мотивации, самоконтроля и структурирования материала в голове.
 
 ---
 
@@ -418,7 +418,7 @@ title: Learn.JavaScript.ru Practice
     :pencil: #11 Получить второй LI
 
   * Свойства узлов: тип, тег и содержимое
-  
+
     :pencil: Что выведет код в консоли?
 
     :pencil: В инлайн скрипте lastChild.nodeType

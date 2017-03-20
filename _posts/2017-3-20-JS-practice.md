@@ -20,7 +20,7 @@ title: JavaScript Practice
   - Вы должны настроить некоторые константы для "ставки налога", "цены телефона", "цены аксессуара" и "предела трат" также как и переменную для вашего "баланса банковского счета".
   - Вам следует определить функции для вычисления налога и для форматирования цены со знаком валюты и округлением до двух знаков после запятой.
 
-  [:link:Сыллка на задачу](https://github.com/azat-io/you-dont-know-js-ru/blob/master/up%20%26%20going/ch1.md#Практика)
+  [:link:Ссылка на задачу](https://github.com/azat-io/you-dont-know-js-ru/blob/master/up%20%26%20going/ch1.md#Практика)
 
   <script async src="//jsfiddle.net/ekaterinasava/538551dq/embed/js,result/"></script>
 
