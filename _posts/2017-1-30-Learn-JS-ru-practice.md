@@ -528,36 +528,29 @@ title: Learn.JavaScript.ru Practice
 
   * Введение в браузерные события
 
-    :pencil: Спрятать при клике <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-other)
-
+    :pencil: #1 Спрятать при клике <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-other)
     <script async src="//jsfiddle.net/ekaterinasava/t4xqx0zs/embed/"></script>
 
-    :pencil: Спрятаться <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-self-onclick)
-
+    :pencil: #2 Спрятаться <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-self-onclick)
     <script async src="//jsfiddle.net/ekaterinasava/2kf5v5mu/embed/"></script>
 
-    :pencil: Какие обработчики сработают? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/which-handlers-run)
-
+    :pencil: #3 Какие обработчики сработают? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/which-handlers-run)
     <script async src="//jsfiddle.net/ekaterinasava/c0h8zzkL/embed/js,html,result/"></script>
 
-    :pencil: Раскрывающееся меню <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/sliding-menu)
-
+    :pencil: #4 Раскрывающееся меню <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/sliding-menu)
     <script async src="//jsfiddle.net/ekaterinasava/L1shyxgj/embed/"></script>
 
-    :pencil: Спрятать сообщение <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-message)
-
+    :pencil: #5 Спрятать сообщение <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-message)
     <script async src="//jsfiddle.net/ekaterinasava/fb8tdbx8/embed/"></script>
 
-    :pencil: Карусель <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/carousel)
-
+    :pencil: #6 Карусель <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/carousel)
     <script async src="//jsfiddle.net/ekaterinasava/x54qry1w/embed/"></script>
 
   * Порядок обработки событий
 
   * Объект события
 
-    :pencil: Передвигать мяч по полю <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/move-ball-field)
-
+    :pencil: #7 Передвигать мяч по полю <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/move-ball-field)
     <script async src="//jsfiddle.net/ekaterinasava/00yf5vum/embed/"></script>
 
 ---
@@ -568,21 +561,21 @@ title: Learn.JavaScript.ru Practice
 
   * Делегирование событий
 
-    :pencil: Скрытие сообщения с помощью делегирования <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-message-delegate)
-
+    :pencil: #1 Скрытие сообщения с помощью делегирования <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/hide-message-delegate)
     <script async src="//jsfiddle.net/ekaterinasava/qc0dp78q/embed/"></script>
 
-    :pencil: Раскрывающееся дерево <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/sliding-tree)
+    :pencil: #2 Раскрывающееся дерево <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/sliding-tree)
 
     --
 
-    :pencil: Сортировка таблицы <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/sort-table)
+    :pencil: #3 Сортировка таблицы <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/sort-table)
 
     --
 
   * Приём проектирования "поведение"
 
-    :pencil: Поведение "подсказка"
+    :pencil: #4 Поведение "подсказка" <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/behavior-tooltip)
+    <script async src="//jsfiddle.net/ekaterinasava/mrjqqaou/embed/"></script>
 
   * Действия браузера по умолчанию
 

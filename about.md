@@ -17,7 +17,7 @@ Hi!
 * jade
 * less / scss / precss
 * postcss workflow
-* git 
+* git
 
 Знаю:
 
@@ -31,6 +31,13 @@ Hi!
 
 * phpstorm / webstorm
 * atom / brackets
+
+---
+
+С 30 января по 30 марта прохожу курс «JavaScript/DOM/интерфейсы»
+
+* native javascript
+* работа с DOM
 
 ---
 
