@@ -587,7 +587,7 @@ title: Learn.JavaScript.ru Practice
 
   * Генерация событий на элементах
 
-  –––ы
+  –––
 
   <h4 class="post__small-subheading">События в деталях</h4>
 
@@ -656,3 +656,38 @@ title: Learn.JavaScript.ru Practice
 ---
 
   <h2 class="post__small-heading">Занятие 14 – 20/03/2017</h2>  
+
+  <h4 class="post__small-subheading">Формы, элементы управления</div>
+
+  * Навигация и свойства элементов формы
+    :pencil: Добавьте опцию к селекту <sup>:five:</sup> [:link:]()
+
+  * Фокусировка: focus/blur
+    :pencil: Улучшенный плейсхолдер <sup>:five:</sup> [:link:]()
+    :pencil: Мышонок на "клавиатурном" приводе <sup>:five:</sup> [:link:]()
+    :pencil: Горячие клавиши <sup>:five:</sup> [:link:]()
+    :pencil: Редактирование TD по клику <sup>:five:</sup> [:link:]()
+    :pencil: Красивый плейсхолдер для INPUT <sup>:five:</sup> [:link:]()
+    :pencil: Поле, предупреждающее о включенном CapsLock <sup>:five:</sup> [:link:]()
+
+  * Изменение: change, input, cut, copy, paste
+    :pencil: Автовычисление процентов по вкладу <sup>:five:</sup> [:link:]()
+
+  * Формы: отправка, событие и метод submit
+    :pencil: Модальное диалоговое окно <sup>:five:</sup> [:link:]()
+    :pencil: Валидация формы <sup>:five:</sup> [:link:]()
+
+  <h4 class="post__small-subheading">Создание графических компонентов</div>
+
+  * Введение
+
+  * Графические компоненты
+    :pencil: Часики <sup>:five:</sup> [:link:]()
+    :pencil: Слайдер-компонент <sup>:five:</sup> [:link:]()
+    :pencil: Компонент: список с выделением <sup>:five:</sup> [:link:]()
+    :pencil: Голосовалка <sup>:five:</sup> [:link:]()
+    :pencil: Голосовалка в прототипном стиле ООП <sup>:five:</sup> [:link:]()
+    :pencil: Добавить двойной голос в голосовалку <sup>:five:</sup> [:link:]()
+
+  * Вёрстка графических компонентов
+    :pencil: Семантическое меню <sup>:five:</sup> [:link:]()
