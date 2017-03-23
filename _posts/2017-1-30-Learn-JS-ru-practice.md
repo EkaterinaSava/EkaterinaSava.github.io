@@ -657,13 +657,18 @@ title: Learn.JavaScript.ru Practice
 
   <h2 class="post__small-heading">Занятие 14 – 20/03/2017</h2>  
 
-  <h4 class="post__small-subheading">Формы, элементы управления</div>
+  <h4 class="post__small-subheading">Формы, элементы управления</h4>
 
   * Навигация и свойства элементов формы
-    :pencil: Добавьте опцию к селекту <sup>:five:</sup> [:link:]()
+
+    :pencil: #1 Добавьте опцию к селекту <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/add-select-option)
+    <script async src="//jsfiddle.net/ekaterinasava/73s55qsb/embed/"></script>
 
   * Фокусировка: focus/blur
-    :pencil: Улучшенный плейсхолдер <sup>:five:</sup> [:link:]()
+
+    :pencil: #2 Улучшенный плейсхолдер <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/emulate-placeholder)
+
+
     :pencil: Мышонок на "клавиатурном" приводе <sup>:five:</sup> [:link:]()
     :pencil: Горячие клавиши <sup>:five:</sup> [:link:]()
     :pencil: Редактирование TD по клику <sup>:five:</sup> [:link:]()
