@@ -11,51 +11,43 @@ title: Learn.JavaScript.ru Practice
   Темы (теория + задачи) для изучения "на дом".
 
   * Привет, мир!
-  * :pencil: Выведите alert <sup>:five:</sup>
+
+    :pencil: #1 Выведите alert <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/hello-alert)
+    <script async src="//jsfiddle.net/ekaterinasava/mvcrsc49/embed/html,result/"></script>
+
   * Внешние скрипты, порядок исполнения
-  * :pencil: Вывести alert внешним скриптом <sup>:five:</sup>
-  * :pencil: Какой скрипт выполнится первым? <sup>:four:</sup>
+
+    :pencil: #2 Вывести alert внешним скриптом <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/hello-alert-ext)
+    <script async src="//jsfiddle.net/ekaterinasava/av97cted/embed/js,html,result/"></script>
+
+    :pencil: #3 Какой скрипт выполнится первым? <sup>:four:</sup> [:link:](https://learn.javascript.ru/task/async-defer-first)
+    <script async src="//jsfiddle.net/ekaterinasava/0j6qr1e6/embed/html,result/"></script>
+
   * Структура кода
+
   * Современный стандарт, 'use strict'
+
   * Переменные
-  * :pencil: Работа с переменными <sup>:two:</sup>
+
+    :pencil: #4 Работа с переменными <sup>:two:</sup> [:link:](https://learn.javascript.ru/task/hello-variables)
+    <script async src="//jsfiddle.net/ekaterinasava/fwsggLb3/embed/js,result/"></script>
+
   * Правильный выбор имени переменной
-  * :pencil: Объявление переменных <sup>:three:</sup>
+
+    :pencil: #5 Объявление переменных <sup>:three:</sup> [:link:](https://learn.javascript.ru/task/declare-variables)
+    <script async src="//jsfiddle.net/ekaterinasava/20pfkcg3/embed/js,result/"></script>
+
   * Шесть типов данных, typeof
+
   * Основные операторы
-  * :pencil: Инкремент, порядок срабатывания <sup>:five:</sup>
-  * :pencil: Результат присваивания <sup>:three:</sup>
+
+    :pencil: #6 Инкремент, порядок срабатывания <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/increment-order)
+    <script async src="//jsfiddle.net/ekaterinasava/u1z8smo1/embed/js,result/"></script>
+
+    :pencil: #7 Результат присваивания <sup>:three:</sup> [:link:](https://learn.javascript.ru/task/assignment-result)
+    <script async src="//jsfiddle.net/ekaterinasava/ko9bv8jt/embed/js,result/"></script>
+
   * Операторы сравнения и логические значения
-
-  Решения задач:
-
-  1. Выведите alert [:link:](https://learn.javascript.ru/task/hello-alert)
-
-  <script async src="//jsfiddle.net/ekaterinasava/mvcrsc49/embed/html,result/"></script>
-
-  2. Вывести alert внешним скриптом [:link:](https://learn.javascript.ru/task/hello-alert-ext)
-
-  <script async src="//jsfiddle.net/ekaterinasava/av97cted/embed/js,html,result/"></script>
-
-  3. Какой скрипт выполнится первым? [:link:](https://learn.javascript.ru/task/async-defer-first)
-
-  <script async src="//jsfiddle.net/ekaterinasava/0j6qr1e6/embed/html,result/"></script>
-
-  4. Работа с переменными [:link:](https://learn.javascript.ru/task/hello-variables)
-
-  <script async src="//jsfiddle.net/ekaterinasava/fwsggLb3/embed/js,result/"></script>
-
-  5. Объявление переменных [:link:](https://learn.javascript.ru/task/declare-variables)
-
-  <script async src="//jsfiddle.net/ekaterinasava/20pfkcg3/embed/js,result/"></script>
-
-  6. Инкремент, порядок срабатывания [:link:](https://learn.javascript.ru/task/increment-order)
-
-  <script async src="//jsfiddle.net/ekaterinasava/u1z8smo1/embed/js,result/"></script>
-
-  7. Результат присваивания [:link:](https://learn.javascript.ru/task/assignment-result)
-
-  <script async src="//jsfiddle.net/ekaterinasava/ko9bv8jt/embed/js,result/"></script>
 
 ---  
 
@@ -63,132 +55,149 @@ title: Learn.JavaScript.ru Practice
   Темы (теория + задачи) для изучения "на дом".
 
   * Автоматические тесты при помощи chai и mocha
-  * :pencil: Сделать pow по спецификации <sup>:five:</sup>
-  * :pencil: Добавьте тест к задаче <sup>:five:</sup>
-  * :pencil: Что не так в тесте? <sup>:five:</sup>
+
+    :pencil: #1 Сделать pow по спецификации <sup>:five:</sup>
+
+    :pencil: #2 Добавьте тест к задаче <sup>:five:</sup>
+
+    :pencil: #3 Что не так в тесте? <sup>:five:</sup>
+
   * Введение в методы и свойства
+
   * Числа
-  * :pencil: Интерфейс суммы <sup>:five:</sup>
-  * :pencil: Почему 6.35.toFixed(1) == 6.3? <sup>:four:</sup>
-  * :pencil: Сложение цен <sup>:five:</sup>
-  * :pencil: Бесконечный цикл по ошибке <sup>:four:</sup>
-  * :pencil: Как получить дробную часть числа? <sup>:four:</sup>
-  * :pencil: Формула Бине <sup>:four:</sup>
-  * :pencil: Случайное из интервала (0, max) <sup>:two:</sup>
-  * :pencil: Случайное из интервала (min, max) <sup>:two:</sup>
-  * :pencil: Случайное целое от min до max <sup>:two:</sup>
+
+    :pencil: #4 Интерфейс суммы <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/sum-interface)
+    <script async src="//jsfiddle.net/ekaterinasava/t79q0wmo/embed/js,result/"></script>
+
+    :pencil: #5 Почему 6.35.toFixed(1) == 6.3? <sup>:four:</sup> [:link:](https://learn.javascript.ru/task/why-rounded-down)
+    <script async src="//jsfiddle.net/ekaterinasava/2dka1ckm/embed/js,html,result/"></script>
+
+    :pencil: #6 Сложение цен <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/sum-prices)
+    <script async src="//jsfiddle.net/ekaterinasava/qytx4b1f/embed/js,result/"></script>
+
+    :pencil: #7 Бесконечный цикл по ошибке <sup>:four:</sup> [:link:](https://learn.javascript.ru/task/endless-loop-error)
+    <script async src="//jsfiddle.net/ekaterinasava/22r6cv99/embed/js,html,result/"></script>
+
+    :pencil: Как получить дробную часть числа? <sup>:four:</sup>
+
+    :pencil: Формула Бине <sup>:four:</sup>
+
+    :pencil: Случайное из интервала (0, max) <sup>:two:</sup>
+
+    :pencil: Случайное из интервала (min, max) <sup>:two:</sup>
+
+    :pencil: Случайное целое от min до max <sup>:two:</sup>
+
   * Строки
-  * :pencil: Сделать первый символ заглавным <sup>:five:</sup>
-  * :pencil: Проверьте спам <sup>:five:</sup>
-  * :pencil: Усечение строки <sup>:five:</sup>
-  * :pencil: Выделить число <sup>:four:</sup>
 
-  Решения задач:
+    :pencil: Сделать первый символ заглавным <sup>:five:</sup>
 
-  1. Сделать pow по спецификации [:link:]()
+    :pencil: Проверьте спам <sup>:five:</sup>
 
-  2. Добавьте тест к задаче [:link:]()
+    :pencil: Усечение строки <sup>:five:</sup>
 
-  3. Что не так в тесте? [:link:]()
-
-  4. Интерфейс суммы [:link:](https://learn.javascript.ru/task/sum-interface)
-
-  <script async src="//jsfiddle.net/ekaterinasava/t79q0wmo/embed/js,result/"></script>
-
-  5. Почему 6.35.toFixed(1) == 6.3? [:link:](https://learn.javascript.ru/task/why-rounded-down)
-
-  <script async src="//jsfiddle.net/ekaterinasava/2dka1ckm/embed/js,html,result/"></script>
-
-  6. Сложение цен [:link:](https://learn.javascript.ru/task/sum-prices)
-
-  <script async src="//jsfiddle.net/ekaterinasava/qytx4b1f/embed/js,result/"></script>
-
-  7. Бесконечный цикл по ошибке [:link:](https://learn.javascript.ru/task/endless-loop-error)
-
-  <script async src="//jsfiddle.net/ekaterinasava/22r6cv99/embed/js,html,result/"></script>
-
-  8. Как получить дробную часть числа? [:link:]()
-
-  9. Формула Бине [:link:]()
-
-  10. Случайное из интервала (0, max) [:link:]()
-
-  11. Случайное из интервала (min, max) [:link:]()
-
-  12. Случайное целое от min до max [:link:]()
-
-  13. Сделать первый символ заглавным [:link:]()
-
-  14. Проверьте спам [:link:]()
-
-  15. Усечение строки [:link:]()
-
-  16. Выделить число [:link:]()
+    :pencil: Выделить число <sup>:four:</sup>
 
 ---
 
   <h2 class="post__small-heading">Занятие 3 – 06/02/2017</h2>
 
-  Теория:
   * Объекты как ассоциативные массивы
-    - :pencil: Первый объект 3 [:link:](https://learn.javascript.ru/task/hello-object)
 
+    :pencil: Первый объект 3 [:link:](https://learn.javascript.ru/task/hello-object)
     <script async src="//jsfiddle.net/ekaterinasava/Ltkowbgo/2/embed/js/"></script>
 
   * Объекты: перебор свойств
-    - :pencil: Определите, пуст ли объект 5 [:link:](https://learn.javascript.ru/task/is-empty)
 
+    :pencil: Определите, пуст ли объект 5 [:link:](https://learn.javascript.ru/task/is-empty)
     <script async src="//jsfiddle.net/ekaterinasava/r8qbL66w/1/embed/js,result/"></script>
 
-    - :pencil: Сумма свойств 5 [:link:]()
-    - :pencil: Свойство с наибольшим значением <sup>:five:</sup> [:link:]()
-    - :pencil: Умножьте численные свойства на 2 <sup>:three:</sup> [:link:]()
+    :pencil: Сумма свойств 5 [:link:]()
+
+    :pencil: Свойство с наибольшим значением <sup>:five:</sup> [:link:]()
+
+    :pencil: Умножьте численные свойства на 2 <sup>:three:</sup> [:link:]()
 
   * Объекты: передача по ссылке
 
   * Массивы с числовыми индексами
-    - :pencil: Получить последний элемент массива <sup>:five:</sup> [:link:]()
-    - :pencil: Добавить новый элемент в массив <sup>:five:</sup> [:link:]()
-    - :pencil: Создание массива <sup>:five:</sup> [:link:]()
-    - :pencil: Получить случайное значение из массива <sup>:three:</sup> [:link:]()
-    - :pencil: Создайте калькулятор для введённых значений <sup>:four:</sup>  [:link:]()
-    - :pencil: Чему равен элемент массива? <sup>:three:</sup> [:link:]()
-    - :pencil: Поиск в массиве <sup>:three:</sup> [:link:]()
-    - :pencil: Фильтр диапазона <sup>:three:</sup> [:link:]()
-    - :pencil: Решето Эратосфена <sup>:three:</sup> [:link:]()
-    - :pencil: Подмассив наибольшей суммы <sup>:two:</sup> [:link:]()
+
+    :pencil: Получить последний элемент массива <sup>:five:</sup> [:link:]()
+
+    :pencil: Добавить новый элемент в массив <sup>:five:</sup> [:link:]()
+
+    :pencil: Создание массива <sup>:five:</sup> [:link:]()
+
+    :pencil: Получить случайное значение из массива <sup>:three:</sup> [:link:]()
+
+    :pencil: Создайте калькулятор для введённых значений <sup>:four:</sup>  [:link:]()
+
+    :pencil: Чему равен элемент массива? <sup>:three:</sup> [:link:]()
+
+    :pencil: Поиск в массиве <sup>:three:</sup> [:link:]()
+
+    :pencil: Фильтр диапазона <sup>:three:</sup> [:link:]()
+
+    :pencil: Решето Эратосфена <sup>:three:</sup> [:link:]()
+
+    :pencil: Подмассив наибольшей суммы <sup>:two:</sup> [:link:]()
 
   * Массивы: методы
-    - :pencil: Добавить класс в строку <sup>:five:</sup> [:link:]()
-    - :pencil: Перевести текст вида border-left-width в borderLeftWidth <sup>:three:</sup> [:link:]()
-    - :pencil: Функция removeClass <sup>:five:</sup> [:link:]()
-    - :pencil: Фильтрация массива "на месте" <sup>:four:</sup>  [:link:]()
-    - :pencil: Сортировать в обратном порядке <sup>:five:</sup> [:link:]()
-    - :pencil: Скопировать и отсортировать массив <sup>:five:</sup> [:link:]()
-    - :pencil: Случайный порядок в массиве <sup>:three:</sup> [:link:]()
-    - :pencil: Сортировка объектов <sup>:five:</sup> [:link:]()
-    - :pencil: Вывести односвязный список <sup>:five:</sup> [:link:]()
-    - :pencil: Отфильтровать анаграммы <sup>:three:</sup> [:link:]()
-    - :pencil: Оставить уникальные элементы массива <sup>:three:</sup> [:link:]()
+
+    :pencil: Добавить класс в строку <sup>:five:</sup> [:link:]()
+
+    :pencil: Перевести текст вида border-left-width в borderLeftWidth <sup>:three:</sup> [:link:]()
+
+    :pencil: Функция removeClass <sup>:five:</sup> [:link:]()
+
+    :pencil: Фильтрация массива "на месте" <sup>:four:</sup>  [:link:]()
+
+    :pencil: Сортировать в обратном порядке <sup>:five:</sup> [:link:]()
+
+    :pencil: Скопировать и отсортировать массив <sup>:five:</sup> [:link:]()
+
+    :pencil: Случайный порядок в массиве <sup>:three:</sup> [:link:]()
+
+    :pencil: Сортировка объектов <sup>:five:</sup> [:link:]()
+
+    :pencil: Вывести односвязный список <sup>:five:</sup> [:link:]()
+
+    :pencil: Отфильтровать анаграммы <sup>:three:</sup> [:link:]()
+
+    :pencil: Оставить уникальные элементы массива <sup>:three:</sup> [:link:]()
 
   * Массив: перебирающие методы
-    - :pencil: Перепишите цикл через map <sup>:five:</sup> [:link:]()
-    - :pencil: Массив частичных сумм <sup>:two:</sup> [:link:]()
+
+    :pencil: Перепишите цикл через map <sup>:five:</sup> [:link:]()
+
+    :pencil: Массив частичных сумм <sup>:two:</sup> [:link:]()
+
 
   * Псевдомассив аргументов "arguments"
-    - :pencil: Проверка на аргумент-undefined <sup>:five:</sup> [:link:]()
-    - :pencil: Сумма аргументов <sup>:five:</sup> [:link:]()
+
+    :pencil: Проверка на аргумент-undefined <sup>:five:</sup> [:link:]()
+
+    :pencil: Сумма аргументов <sup>:five:</sup> [:link:]()
 
   * Дата и Время
-    - :pencil: Создайте дату <sup>:five:</sup> [:link:]()
-    - :pencil: Имя дня недели <sup>:five:</sup> [:link:]()
-    - :pencil: День недели в европейской нумерации <sup>:five:</sup> [:link:]()
-    - :pencil: День указанное количество дней назад 4 [:link:]()
-    - :pencil: Последний день месяца? <sup>:five:</sup> [:link:]()
-    - :pencil: Сколько секунд уже прошло сегодня? <sup>:five:</sup> [:link:]()
-    - :pencil: Сколько секунд - до завтра? <sup>:five:</sup> [:link:]()
-    - :pencil: Вывести дату в формате дд.мм.гг <sup>:three:</sup> [:link:]()
-    - :pencil: Относительное форматирование даты <sup>:four:</sup> [:link:]()
+
+    :pencil: Создайте дату <sup>:five:</sup> [:link:]()
+
+    :pencil: Имя дня недели <sup>:five:</sup> [:link:]()
+
+    :pencil: День недели в европейской нумерации <sup>:five:</sup> [:link:]()
+
+    :pencil: День указанное количество дней назад 4 [:link:]()
+
+    :pencil: Последний день месяца? <sup>:five:</sup> [:link:]()
+
+    :pencil: Сколько секунд уже прошло сегодня? <sup>:five:</sup> [:link:]()
+
+    :pencil: Сколько секунд - до завтра? <sup>:five:</sup> [:link:]()
+
+    :pencil: Вывести дату в формате дд.мм.гг <sup>:three:</sup> [:link:]()
+
+    :pencil: Относительное форматирование даты <sup>:four:</sup> [:link:]()
 
 ---
 
@@ -196,17 +205,27 @@ title: Learn.JavaScript.ru Practice
   <h2 class="post__small-heading">Занятие 4 – 09/02/2017</h2>
 
   * Глобальный объект
-    - :pencil: Window и переменная <sup>:five:</sup> [:link:]()
-    - :pencil: Window и переменная <sup>:two:</sup> [:link:]()
-    - :pencil: Window и переменная <sup>:three:</sup> [:link:]()
+
+    :pencil: Window и переменная <sup>:five:</sup> [:link:]()
+
+    :pencil: Window и переменная <sup>:two:</sup> [:link:]()
+
+    :pencil: Window и переменная <sup>:three:</sup> [:link:]()
 
   * Замыкания, функции изнутри
-    - :pencil: Что выведет say в начале кода? [:link:]()
-    - :pencil: В какую переменную будет присвоено значение? [:link:]()
-    - :pencil: var window [:link:]()
-    - :pencil: Вызов "на месте" [:link:]()
-    - :pencil: Перекрытие переменной [:link:]()
-    - :pencil: Глобальный счётчик [:link:]()
+
+    :pencil: Что выведет say в начале кода? [:link:]()
+
+    :pencil: В какую переменную будет присвоено значение? [:link:]()
+
+    :pencil: var window [:link:]()
+
+    :pencil: Вызов "на месте" [:link:]()
+
+    :pencil: Перекрытие переменной [:link:]()
+
+    :pencil: Глобальный счётчик [:link:]()
+
   * [[Scope]] для new Function
 
 ---
@@ -214,27 +233,36 @@ title: Learn.JavaScript.ru Practice
   <h2 class="post__small-heading">Занятие 5 – 13/02/2017</h2>
 
   * Повтор тем с прошлого занятия:
-    * Глобальный объект
-    * Замыкания, функции изнутри
-    * [[Scope]] для new Function
+    - Глобальный объект
+    - Замыкания, функции изнутри
+    - [[Scope]] для new Function
 
   Плюс:
 
   * Локальные переменные для объекта
-    - :pencil: Сумма через замыкание [:link:]()
-    - :pencil: Функция - строковый буфер [:link:]()
-    - :pencil: Строковый буфер с очисткой [:link:]()
-    - :pencil: Сортировка [:link:]()
-    - :pencil: Фильтрация через функцию [:link:]()
-    - :pencil: Армия функций [:link:]()
+
+    :pencil: Сумма через замыкание [:link:]()
+
+    :pencil: Функция - строковый буфер [:link:]()
+
+    :pencil: Строковый буфер с очисткой [:link:]()
+
+    :pencil: Сортировка [:link:]()
+
+    :pencil: Фильтрация через функцию [:link:]()
+
+    :pencil: Армия функций [:link:]()
 
   * Модули через замыкания
 
   <div class="task task--disabled">
     * Управление памятью в JavaScript
+
     * Устаревшая конструкция "with"
-      - :pencil: With + функция [:link:]()
-      - :pencil: With + переменные [:link:]()
+
+      :pencil: With + функция [:link:]()
+
+      :pencil: With + переменные [:link:]()
   </div>    
 
 ---
@@ -244,54 +272,84 @@ title: Learn.JavaScript.ru Practice
   <h4 class="post__small-subheading">Методы объектов и контекст вызова</h4>
 
   * Методы объектов, this
-    - :pencil: Вызов в контексте массива
-    - :pencil: Проверка синтаксиса
-    - :pencil: Почему this присваивается именно так?
-    - :pencil: Значение this в объявлении объекта
-    - :pencil: Возврат this
-    - :pencil: Возврат объекта с this
-    - :pencil: Создайте калькулятор
-    - :pencil: Цепочка вызовов
+
+    :pencil: Вызов в контексте массива
+
+    :pencil: Проверка синтаксиса
+
+    :pencil: Почему this присваивается именно так?
+
+    :pencil: Значение this в объявлении объекта
+
+    :pencil: Возврат this
+
+    :pencil: Возврат объекта с this
+
+    :pencil: Создайте калькулятор
+
+    :pencil: Цепочка вызовов
 
   * Преобразование объектов: toString и valueOf
-    - :pencil: ['x'] == 'x'
-    - :pencil: Преобразование
-    - :pencil: Почему [] == [] неверно, а [ ] == ![ ] верно?
-    - :pencil: Вопросник по преобразованиям, для объектов
-    - :pencil: Сумма произвольного количества скобок
+
+    :pencil: ['x'] == 'x'
+
+    :pencil: Преобразование
+
+    :pencil: Почему [] == [] неверно, а [ ] == ![ ] верно?
+
+    :pencil: Вопросник по преобразованиям, для объектов
+
+    :pencil: Сумма произвольного количества скобок
 
   * Создание объектов через "new"
-    - :pencil: Две функции один объект
-    - :pencil: Создать Calculator при помощи конструктора
-    - :pencil: Создать Accumulator при помощи конструктора
-    - :pencil: Создайте калькулятор
+
+    :pencil: Две функции один объект
+
+    :pencil: Создать Calculator при помощи конструктора
+
+    :pencil: Создать Accumulator при помощи конструктора
+
+    :pencil: Создайте калькулятор
 
   * Дескрипторы, геттеры и сеттеры свойств
-    - :pencil: Добавить get/set-свойства
+
+    :pencil: Добавить get/set-свойства
 
 ---
 
   <h2 class="post__small-heading">Занятие 7 – 20/02/2017</h2>  
 
   * Статические и фабричные методы
-    - :pencil: Счетчик объектов
+
+    :pencil: Счетчик объектов
 
   * Явное указание this: "call", "apply"
-    - :pencil: Перепишите суммирование аргументов
-    - :pencil: Примените функцию к аргументам
+
+    :pencil: Перепишите суммирование аргументов
+
+    :pencil: Примените функцию к аргументам
 
   * Привязка контекста и карринг: "bind"
-    - :pencil: Кросс-браузерная эмуляция bind
-    - :pencil: Запись в объект после bind
-    - :pencil: Повторный bind
-    - :pencil: Свойство функции после bind
-    - :pencil: Использование функции вопросов
-    - :pencil: Использование функции вопросов с каррингом
+
+    :pencil: Кросс-браузерная эмуляция bind
+
+    :pencil: Запись в объект после bind
+
+    :pencil: Повторный bind
+
+    :pencil: Свойство функции после bind
+
+    :pencil: Использование функции вопросов
+
+    :pencil: Использование функции вопросов с каррингом
 
   * Функции-обёртки, декораторы
-    - :pencil: Логирующий декоратор (1 аргумент)
-    - :pencil: Логирующий декоратор (много аргументов)
-    - :pencil: Кеширующий декоратор
+
+    :pencil: Логирующий декоратор (1 аргумент)
+
+    :pencil: Логирующий декоратор (много аргументов)
+
+    :pencil: Кеширующий декоратор
 
   Плюс: на самостоятельное изучение
 
@@ -323,39 +381,58 @@ title: Learn.JavaScript.ru Practice
   <h4 class="post__small-subheading">ООП в прототипном стиле</h4>
 
   * Прототип объекта
-    - :pencil: Чему равно свойство после delete?
-    - :pencil: Прототип и this
-    - :pencil: Алгоритм для поиска
+
+    :pencil: Чему равно свойство после delete?
+
+    :pencil: Прототип и this
+
+    :pencil: Алгоритм для поиска
 
   * Свойство F.prototype и создание объектов через new
-    - :pencil: Прототип после создания
-    - :pencil: Аргументы по умолчанию
-    - :pencil: Есть ли разница между вызовами?
-    - :pencil: Создать объект тем же конструктором
+
+    :pencil: Прототип после создания
+
+    :pencil: Аргументы по умолчанию
+
+    :pencil: Есть ли разница между вызовами?
+
+    :pencil: Создать объект тем же конструктором
 
   * Встроенные "классы" в JavaScript
-    - :pencil: Добавить функциям defer
-    - :pencil: Добавить функциям defer с аргументами
+
+    :pencil: Добавить функциям defer
+
+    :pencil: Добавить функциям defer с аргументами
 
   * Свои классы на прототипах
-    - :pencil: Перепишите в виде класса
-    - :pencil: Хомяки с __proto__
+
+    :pencil: Перепишите в виде класса
+
+    :pencil: Хомяки с __proto__
 
   * Наследование классов в JavaScript
 
-    - :pencil: Найдите ошибку в наследовании
-    - :pencil: В чём ошибка в наследовании
-    - :pencil: Класс "часы"
-    - :pencil: Класс "расширенные часы"
-    - :pencil: Меню с таймером для анимации
-    - :pencil: Что содержит constructor?
+    :pencil: Найдите ошибку в наследовании
+
+    :pencil: В чём ошибка в наследовании
+
+    :pencil: Класс "часы"
+
+    :pencil: Класс "расширенные часы"
+
+    :pencil: Меню с таймером для анимации
+
+    :pencil: Что содержит constructor?
 
   * Проверка класса: "instanceof"
-    - :pencil: Странное поведение instanceof
-    - :pencil: Что выведет instanceof?
+
+    :pencil: Странное поведение instanceof
+
+    :pencil: Что выведет instanceof?
 
   * Свои ошибки, наследование от Error
-    - :pencil: Унаследуйте от SyntaxError
+
+    :pencil: Унаследуйте от SyntaxError
 
   * Примеси
 
@@ -372,48 +449,42 @@ title: Learn.JavaScript.ru Practice
   * Окружение: DOM, BOM и JS
 
   * Дерево DOM
-    :pencil: #1 Что выведет этот alert? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/body-from-head)
 
+    :pencil: #1 Что выведет этот alert? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/body-from-head)
     <script async src="//jsfiddle.net/ekaterinasava/edL6ajLk/embed/"></script>
 
   * Работа с DOM из консоли
 
   * Навигация по DOM-элементам
-    :pencil: #2 DOM children <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/dom-children)
 
+    :pencil: #2 DOM children <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/dom-children)
     <script async src="//jsfiddle.net/ekaterinasava/4gqvc8gv/embed/js,html,result/"></script>
 
     :pencil: #3 Проверка существования детей <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/has-childnodes)
-
     <script async src="//jsfiddle.net/ekaterinasava/eat8Le0p/embed/js,html,result/"></script>
 
     :pencil: #4 Вопрос по навигационным ссылкам <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/navigation-links-which-null)
-
     <script async src="//jsfiddle.net/ekaterinasava/gxa8qkvu/embed/html,result/"></script>
 
     :pencil: #5 Выделите ячейки по диагонали <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/select-diagonal-cells)
-
     <script async src="//jsfiddle.net/ekaterinasava/udygnxo0/embed/"></script>
 
   * Поиск: getElement* и querySelector* и не только
-    :pencil: #6 Поиск элементов <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/find-elements)
 
+    :pencil: #6 Поиск элементов <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/find-elements)
     <script async src="//jsfiddle.net/ekaterinasava/nozj2tky/embed/js,html,result/"></script>
 
     :pencil: #7 Дерево <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/tree-info)
-
     <script async src="//jsfiddle.net/ekaterinasava/jer01uaj/embed/js,html,result/"></script>
 
   * Внутреннее устройство поисковых методов
-    :pencil: #8 Длина коллекции после удаления элементов http://learn.javascript.ru/task/collection-length-after-remove
 
+    :pencil: #8 Длина коллекции после удаления элементов http://learn.javascript.ru/task/collection-length-after-remove
     <script async src="//jsfiddle.net/ekaterinasava/Lwmghth7/embed/js,html,result/"></script>
 
     :pencil: #9 Сравнение количества элементов <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/compare-elements-count)
 
-
     :pencil: #10 Бенчмаркинг методов поиска в DOM <sup>:two:</sup> [:link:](http://learn.javascript.ru/task/benchmark-search-dom)
-
 
     :pencil: #11 Получить второй LI
 
@@ -515,6 +586,7 @@ title: Learn.JavaScript.ru Practice
   <h2 class="post__small-heading">Занятие 10 – 06/03/2017</h2>  
 
   <h4 class="post__small-subheading">Повтор тем на дом:</h4>
+
   * Замыкания
   * Прототипы
   * Объекты и массивы
@@ -667,32 +739,81 @@ title: Learn.JavaScript.ru Practice
   * Фокусировка: focus/blur
 
     :pencil: #2 Улучшенный плейсхолдер <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/emulate-placeholder)
-
+    <script async src="//jsfiddle.net/ekaterinasava/b6axkawL/embed/"></script>
 
     :pencil: Мышонок на "клавиатурном" приводе <sup>:five:</sup> [:link:]()
+
     :pencil: Горячие клавиши <sup>:five:</sup> [:link:]()
+
     :pencil: Редактирование TD по клику <sup>:five:</sup> [:link:]()
+
     :pencil: Красивый плейсхолдер для INPUT <sup>:five:</sup> [:link:]()
+
     :pencil: Поле, предупреждающее о включенном CapsLock <sup>:five:</sup> [:link:]()
 
   * Изменение: change, input, cut, copy, paste
+
     :pencil: Автовычисление процентов по вкладу <sup>:five:</sup> [:link:]()
 
   * Формы: отправка, событие и метод submit
+
     :pencil: Модальное диалоговое окно <sup>:five:</sup> [:link:]()
+
     :pencil: Валидация формы <sup>:five:</sup> [:link:]()
 
-  <h4 class="post__small-subheading">Создание графических компонентов</div>
+  <h4 class="post__small-subheading">Создание графических компонентов</h4>
 
   * Введение
 
   * Графические компоненты
+
     :pencil: Часики <sup>:five:</sup> [:link:]()
+
     :pencil: Слайдер-компонент <sup>:five:</sup> [:link:]()
+
     :pencil: Компонент: список с выделением <sup>:five:</sup> [:link:]()
+
     :pencil: Голосовалка <sup>:five:</sup> [:link:]()
+
     :pencil: Голосовалка в прототипном стиле ООП <sup>:five:</sup> [:link:]()
+
     :pencil: Добавить двойной голос в голосовалку <sup>:five:</sup> [:link:]()
 
   * Вёрстка графических компонентов
+
     :pencil: Семантическое меню <sup>:five:</sup> [:link:]()
+
+---
+
+  <h2 class="post__small-heading">Занятие 15 – 20/03/2017</h2>  
+
+  Прочитать следующие главы:
+
+  * Шаблонизатор LoDash
+
+    :pencil: Шаблон для таблицы с пользователями <sup>:five:</sup> [:link:]()
+
+    :pencil: Шаблон в div с display:none? <sup>:five:</sup> [:link:]()
+
+    :pencil: Сделайте меню ссылками <sup>:five:</sup> [:link:]()
+
+  * Коллбэки и события на компонентах
+
+    :pencil: Голосовалка "на событиях" <sup>:five:</sup> [:link:]()
+
+    :pencil: Список с выделением и событием <sup>:five:</sup> [:link:]()
+
+    :pencil: Свой селект <sup>:five:</sup> [:link:]()
+
+    :pencil: Слайдер с событиями <sup>:five:</sup> [:link:]()
+
+  :heavy_plus_sign: <b>настроить инфраструктуру для разработки учебного SPA-проекта:</b>
+  - Зарегестрироватся на github.com
+  - Установить git
+  - Установить node (npm идет в комплекте)
+  - Сделать [fork проекта](https://github.com/burlakilia/js_20170130), который начали делать на занятии
+
+  :heavy_plus_sign: <b>желательно почитать про:</b>
+  - git ([шпаргалка](https://github.com/nicothin/web-development/tree/master/git#При-любом-действии-с-github-или-другим-удалённым-сервисом-запрешивается-логинпароль))
+  - npm ([шпаргалка](https://habrahabr.ru/post/133363/))
+  - node.js ([скринкаст](http://learn.javascript.ru/screencast/nodejs))
