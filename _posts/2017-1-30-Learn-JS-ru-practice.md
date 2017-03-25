@@ -113,43 +113,56 @@ title: Learn.JavaScript.ru Practice
 
   * Объекты как ассоциативные массивы
 
-    :pencil: Первый объект 3 [:link:](https://learn.javascript.ru/task/hello-object)
+    :pencil: #1 Первый объект 3 [:link:](https://learn.javascript.ru/task/hello-object)
     <script async src="//jsfiddle.net/ekaterinasava/Ltkowbgo/2/embed/js/"></script>
 
   * Объекты: перебор свойств
 
-    :pencil: Определите, пуст ли объект 5 [:link:](https://learn.javascript.ru/task/is-empty)
+    :pencil: #2 Определите, пуст ли объект <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/is-empty)
     <script async src="//jsfiddle.net/ekaterinasava/r8qbL66w/1/embed/js,result/"></script>
 
-    :pencil: Сумма свойств 5 [:link:]()
+    :pencil: #3 Сумма свойств <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/sum-salaries)
+    <script async src="//jsfiddle.net/ekaterinasava/9kk7fped/embed/js,result/"></script>
 
-    :pencil: Свойство с наибольшим значением <sup>:five:</sup> [:link:]()
+    :pencil: #4 Свойство с наибольшим значением <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/max-salary)
+    <script async src="//jsfiddle.net/ekaterinasava/9zv4p580/embed/js,result/"></script>
 
-    :pencil: Умножьте численные свойства на 2 <sup>:three:</sup> [:link:]()
+    :pencil: #5 Умножьте численные свойства на 2 <sup>:three:</sup> [:link:](http://learn.javascript.ru/task/multiply-numeric)
+    <script async src="//jsfiddle.net/ekaterinasava/b9uyh8zv/embed/js,result/"></script>
 
   * Объекты: передача по ссылке
 
   * Массивы с числовыми индексами
 
-    :pencil: Получить последний элемент массива <sup>:five:</sup> [:link:]()
+    :pencil: #6 Получить последний элемент массива <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/get-last-in-array)
+    <script async src="//jsfiddle.net/ekaterinasava/1xr5b2x5/embed/js,result/"></script>
 
-    :pencil: Добавить новый элемент в массив <sup>:five:</sup> [:link:]()
+    :pencil: #7 Добавить новый элемент в массив <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/add-item-to-array)
+    <script async src="//jsfiddle.net/ekaterinasava/1695kd0e/embed/js,result/"></script>
 
-    :pencil: Создание массива <sup>:five:</sup> [:link:]()
+    :pencil: #8 Создание массива <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/create-array)
+    <script async src="//jsfiddle.net/ekaterinasava/95myhorp/embed/js,result/"></script>
 
-    :pencil: Получить случайное значение из массива <sup>:three:</sup> [:link:]()
+    :pencil: #9 Получить случайное значение из массива <sup>:three:</sup> [:link:](http://learn.javascript.ru/task/random-from-array)
+    <script async src="//jsfiddle.net/ekaterinasava/gu7eg1w7/embed/js,result/"></script>
 
-    :pencil: Создайте калькулятор для введённых значений <sup>:four:</sup>  [:link:]()
+    :pencil: #10 Создайте калькулятор для введённых значений <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/calculator-for-input)
+    <script async src="//jsfiddle.net/ekaterinasava/8v5d59hx/embed/js,result/"></script>
 
-    :pencil: Чему равен элемент массива? <sup>:three:</sup> [:link:]()
+    :pencil: #11 Чему равен элемент массива? <sup>:three:</sup> [:link:](http://learn.javascript.ru/task/item-value)
+    <script async src="//jsfiddle.net/ekaterinasava/zL5kojrb/embed/js,result/"></script>
 
-    :pencil: Поиск в массиве <sup>:three:</sup> [:link:]()
+    :pencil: #12 Поиск в массиве <sup>:three:</sup> [:link:](http://learn.javascript.ru/task/array-find)
+    <script async src="//jsfiddle.net/ekaterinasava/90g0c3x5/embed/js,result/"></script>
 
-    :pencil: Фильтр диапазона <sup>:three:</sup> [:link:]()
+    :pencil: #13 Фильтр диапазона <sup>:three:</sup> [:link:](http://learn.javascript.ru/task/filter-range)
+    <script async src="//jsfiddle.net/ekaterinasava/yr219y98/embed/js,result/"></script>
 
-    :pencil: Решето Эратосфена <sup>:three:</sup> [:link:]()
+    :pencil: #14 Решето Эратосфена <sup>:three:</sup> [:link:](http://learn.javascript.ru/task/eratosthenes-sieve)
+    <script async src="//jsfiddle.net/ekaterinasava/fn9j1qpL/embed/js,result/"></script>
 
-    :pencil: Подмассив наибольшей суммы <sup>:two:</sup> [:link:]()
+    :pencil: #15 Подмассив наибольшей суммы <sup>:two:</sup> [:link:](http://learn.javascript.ru/task/maximal-subarray)
+    <script async src="//jsfiddle.net/ekaterinasava/sor9ucp2/embed/js,result/"></script>
 
   * Массивы: методы
 
