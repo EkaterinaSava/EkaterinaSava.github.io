@@ -18,10 +18,10 @@ title: Learn.JavaScript.ru Practice
   * Внешние скрипты, порядок исполнения
 
     :pencil: #2 Вывести alert внешним скриптом <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/hello-alert-ext)
-    <script async src="//jsfiddle.net/ekaterinasava/av97cted/embed/js,html,result/"></script>
+    <script async src="//jsfiddle.net/ekaterinasava/av97cted/embed/js,html/"></script>
 
     :pencil: #3 Какой скрипт выполнится первым? <sup>:four:</sup> [:link:](https://learn.javascript.ru/task/async-defer-first)
-    <script async src="//jsfiddle.net/ekaterinasava/0j6qr1e6/embed/html,result/"></script>
+    <script async src="//jsfiddle.net/ekaterinasava/0j6qr1e6/embed/html/"></script>
 
   * Структура кода
 
@@ -35,7 +35,7 @@ title: Learn.JavaScript.ru Practice
   * Правильный выбор имени переменной
 
     :pencil: #5 Объявление переменных <sup>:three:</sup> [:link:](https://learn.javascript.ru/task/declare-variables)
-    <script async src="//jsfiddle.net/ekaterinasava/20pfkcg3/embed/js,result/"></script>
+    <script async src="//jsfiddle.net/ekaterinasava/20pfkcg3/embed/js/"></script>
 
   * Шесть типов данных, typeof
 
@@ -78,25 +78,34 @@ title: Learn.JavaScript.ru Practice
     :pencil: #7 Бесконечный цикл по ошибке <sup>:four:</sup> [:link:](https://learn.javascript.ru/task/endless-loop-error)
     <script async src="//jsfiddle.net/ekaterinasava/22r6cv99/embed/js,html,result/"></script>
 
-    :pencil: Как получить дробную часть числа? <sup>:four:</sup>
+    :pencil: #8 Как получить дробную часть числа? <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/get-decimal)
+    <script async src="//jsfiddle.net/ekaterinasava/rfdax85b/embed/js,result/"></script>
 
-    :pencil: Формула Бине <sup>:four:</sup>
+    :pencil: #9 Формула Бине <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/formula-binet)
+    <script async src="//jsfiddle.net/ekaterinasava/uwjkzzLx/embed/js,result/"></script>
 
-    :pencil: Случайное из интервала (0, max) <sup>:two:</sup>
+    :pencil: #10 Случайное из интервала (0, max) <sup>:two:</sup> [:link:](http://learn.javascript.ru/task/random-0-max)
+    <script async src="//jsfiddle.net/ekaterinasava/qztw78pq/embed/js,result/"></script>
 
-    :pencil: Случайное из интервала (min, max) <sup>:two:</sup>
+    :pencil: #11 Случайное из интервала (min, max) <sup>:two:</sup> [:link:](http://learn.javascript.ru/task/random-min-max)
+    <script async src="//jsfiddle.net/ekaterinasava/v3dzp4x5/embed/js,result/"></script>
 
-    :pencil: Случайное целое от min до max <sup>:two:</sup>
+    :pencil: #12 Случайное целое от min до max <sup>:two:</sup> [:link:](http://learn.javascript.ru/task/random-int-min-max)
+    <script async src="//jsfiddle.net/ekaterinasava/rjp8jnfd/embed/js,result/"></script>
 
   * Строки
 
-    :pencil: Сделать первый символ заглавным <sup>:five:</sup>
+    :pencil: #13 Сделать первый символ заглавным <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/ucfirst)
+    <script async src="//jsfiddle.net/ekaterinasava/zcf1ofrw/embed/js,result/"></script>
 
-    :pencil: Проверьте спам <sup>:five:</sup>
+    :pencil: #14 Проверьте спам <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/check-spam)
+    <script async src="//jsfiddle.net/ekaterinasava/g0fy51qy/embed/js,result/"></script>
 
-    :pencil: Усечение строки <sup>:five:</sup>
+    :pencil: #15 Усечение строки <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/truncate)
+    <script async src="//jsfiddle.net/ekaterinasava/7L0h85t4/embed/js,result/"></script>
 
-    :pencil: Выделить число <sup>:four:</sup>
+    :pencil: #16 Выделить число <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/extract-currency)
+    <script async src="//jsfiddle.net/ekaterinasava/avqzn46x/embed/js,result/"></script>
 
 ---
 
@@ -358,20 +367,31 @@ title: Learn.JavaScript.ru Practice
   * Введение
 
   * Внутренний и внешний интерфейс
+
     - :pencil: Добавить метод и свойство кофеварке
 
   * Геттеры и сеттеры
+
     - :pencil: Написать объект с геттерами и сеттерами
+
     - :pencil: Добавить геттер для power
+
     - :pencil: Добавить публичный метод кофеварке
+
     - :pencil: Создать сеттер для onReady
+
     - :pencil: Добавить метод isRunning
 
   * Функциональное наследование
+
     - :pencil: Запускать только при включённой кофеварке
+
     - :pencil: Останавливать кофеварку при выключении
+
     - :pencil: Унаследуйте холодильник
+
     - :pencil: Добавьте методы в холодильник
+
     - :pencil: Переопределите disable  
 
 ---
