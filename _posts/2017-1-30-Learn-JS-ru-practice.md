@@ -272,29 +272,19 @@ title: Learn.JavaScript.ru Practice
 
   * Локальные переменные для объекта
 
-    :pencil: Сумма через замыкание [:link:]()
+    :pencil: #1 Сумма через замыкание [:link:]()
 
-    :pencil: Функция - строковый буфер [:link:]()
+    :pencil: #2 Функция - строковый буфер [:link:]()
 
-    :pencil: Строковый буфер с очисткой [:link:]()
+    :pencil: #3 Строковый буфер с очисткой [:link:]()
 
-    :pencil: Сортировка [:link:]()
+    :pencil: #4 Сортировка [:link:]()
 
-    :pencil: Фильтрация через функцию [:link:]()
+    :pencil: #5 Фильтрация через функцию [:link:]()
 
-    :pencil: Армия функций [:link:]()
+    :pencil: #6 Армия функций [:link:]()
 
   * Модули через замыкания
-
-  <div class="task task--disabled">
-    * Управление памятью в JavaScript
-
-    * Устаревшая конструкция "with"
-
-      :pencil: With + функция [:link:]()
-
-      :pencil: With + переменные [:link:]()
-  </div>    
 
 ---
 
@@ -424,57 +414,60 @@ title: Learn.JavaScript.ru Practice
 
   * Прототип объекта
 
-    :pencil: Чему равно свойство после delete?
+    :pencil: #1 Чему равно свойство после delete? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/property-after-delete)
+    <script async src="//jsfiddle.net/ekaterinasava/9q1thuhp/embed/js,result/"></script>
 
-    :pencil: Прототип и this
+    :pencil: #2 Прототип и this <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/proto-and-this)
+    <script async src="//jsfiddle.net/ekaterinasava/uq9x1mro/embed/js,result/"></script>
 
-    :pencil: Алгоритм для поиска
+    :pencil: #3 Алгоритм для поиска <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/search-algorithm)
+    <script async src="//jsfiddle.net/ekaterinasava/nyue8m4n/embed/js,result/"></script>
 
   * Свойство F.prototype и создание объектов через new
 
-    :pencil: Прототип после создания
+    :pencil: #4 Прототип после создания <sup>:five:</sup> [:link:]()
 
-    :pencil: Аргументы по умолчанию
+    :pencil: #5 Аргументы по умолчанию <sup>:five:</sup> [:link:]()
 
-    :pencil: Есть ли разница между вызовами?
+    :pencil: #6 Есть ли разница между вызовами? <sup>:five:</sup> [:link:]()
 
-    :pencil: Создать объект тем же конструктором
+    :pencil: #7 Создать объект тем же конструктором <sup>:five:</sup> [:link:]()
 
   * Встроенные "классы" в JavaScript
 
-    :pencil: Добавить функциям defer
+    :pencil: #8 Добавить функциям defer <sup>:five:</sup> [:link:]()
 
-    :pencil: Добавить функциям defer с аргументами
+    :pencil: #9 Добавить функциям defer с аргументами <sup>:five:</sup> [:link:]()
 
   * Свои классы на прототипах
 
-    :pencil: Перепишите в виде класса
+    :pencil: #10 Перепишите в виде класса <sup>:five:</sup> [:link:]()
 
-    :pencil: Хомяки с __proto__
+    :pencil: #11 Хомяки с __proto__ <sup>:five:</sup> [:link:]()
 
-  * Наследование классов в JavaScript
+  * Наследование классов в JavaScript <sup>:five:</sup> [:link:]()
 
-    :pencil: Найдите ошибку в наследовании
+    :pencil: #12 Найдите ошибку в наследовании <sup>:five:</sup> [:link:]()
 
-    :pencil: В чём ошибка в наследовании
+    :pencil: #13 В чём ошибка в наследовании <sup>:five:</sup> [:link:]()
 
-    :pencil: Класс "часы"
+    :pencil: #14 Класс "часы" <sup>:five:</sup> [:link:]()
 
-    :pencil: Класс "расширенные часы"
+    :pencil: #15 Класс "расширенные часы" <sup>:five:</sup> [:link:]()
 
-    :pencil: Меню с таймером для анимации
+    :pencil: #16 Меню с таймером для анимации <sup>:five:</sup> [:link:]()
 
-    :pencil: Что содержит constructor?
+    :pencil: #17 Что содержит constructor? <sup>:five:</sup> [:link:]()
 
   * Проверка класса: "instanceof"
 
-    :pencil: Странное поведение instanceof
+    :pencil: #18 Странное поведение instanceof <sup>:five:</sup> [:link:]()
 
-    :pencil: Что выведет instanceof?
+    :pencil: #19 Что выведет instanceof? <sup>:five:</sup> [:link:]()
 
   * Свои ошибки, наследование от Error
 
-    :pencil: Унаследуйте от SyntaxError
+    :pencil: #20 Унаследуйте от SyntaxError <sup>:five:</sup> [:link:]()
 
   * Примеси
 
