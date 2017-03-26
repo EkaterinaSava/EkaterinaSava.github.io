@@ -166,7 +166,7 @@ title: Learn.JavaScript.ru Practice
 
   * Массивы: методы
 
-    :pencil: Добавить класс в строку <sup>:five:</sup> [:link:]()
+    :pencil: #16 Добавить класс в строку <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/add-class)
 
     :pencil: Перевести текст вида border-left-width в borderLeftWidth <sup>:three:</sup> [:link:]()
 
@@ -228,25 +228,34 @@ title: Learn.JavaScript.ru Practice
 
   * Глобальный объект
 
-    :pencil: Window и переменная <sup>:five:</sup> [:link:]()
+    :pencil: #1 Window и переменная <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/window-and-variable)
+    <script async src="//jsfiddle.net/ekaterinasava/xdmzxsaz/embed/js,result/"></script>
 
-    :pencil: Window и переменная <sup>:two:</sup> [:link:]()
+    :pencil: #2 Window и переменная 2<sup>:five:</sup> [:link:](http://learn.javascript.ru/task/window-and-variable-2)
+    <script async src="//jsfiddle.net/ekaterinasava/vr0bm93f/embed/js,result/"></script>
 
-    :pencil: Window и переменная <sup>:three:</sup> [:link:]()
+    :pencil: #3 Window и переменная 3<sup>:five:</sup> [:link:](http://learn.javascript.ru/task/window-and-variable-3)
+    <script async src="//jsfiddle.net/ekaterinasava/5ofjwgwb/embed/js,result/"></script>
 
   * Замыкания, функции изнутри
 
-    :pencil: Что выведет say в начале кода? [:link:]()
+    :pencil: #4 Что выведет say в начале кода? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/say-phrase-first)
+    <script async src="//jsfiddle.net/ekaterinasava/xnsreqfh/embed/js,result/"></script>
 
-    :pencil: В какую переменную будет присвоено значение? [:link:]()
+    :pencil: #5 В какую переменную будет присвоено значение? <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/which-value-is-modified)
+    <script async src="//jsfiddle.net/ekaterinasava/ze948gpf/embed/js,result/"></script>
 
-    :pencil: var window [:link:]()
+    :pencil: #6 var window <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/var-window)
+    <script async src="//jsfiddle.net/ekaterinasava/sy7xngob/embed/js,result/"></script>
 
-    :pencil: Вызов "на месте" [:link:]()
+    :pencil: #7 Вызов "на месте" <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/call-inplace)
+    <script async src="//jsfiddle.net/ekaterinasava/agqqcqLb/embed/js,result/"></script>
 
-    :pencil: Перекрытие переменной [:link:]()
+    :pencil: #8 Перекрытие переменной <sup>:four:</sup> [:link:](http://learn.javascript.ru/task/access-outer-variable)
+    <script async src="//jsfiddle.net/ekaterinasava/L8967Luk/embed/js,result/"></script>
 
-    :pencil: Глобальный счётчик [:link:]()
+    :pencil: #9 Глобальный счётчик <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/counter-window-variable)
+    <script async src="//jsfiddle.net/ekaterinasava/np5o5hjL/embed/js,result/"></script>
 
   * [[Scope]] для new Function
 
