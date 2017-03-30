@@ -9,7 +9,7 @@ Hi!
 
 ---
 
-##### Умею:
+#### Умею:
 
 * html + css
 * jquery
@@ -19,7 +19,7 @@ Hi!
 * postcss workflow
 * git
 
-##### Знаю:
+#### Знаю:
 
 * bootstrap
 * squarespace
@@ -27,7 +27,7 @@ Hi!
 * lightroom
 * sketch
 
-##### Использую:
+#### Использую:
 
 * phpstorm / webstorm
 * atom / brackets
@@ -38,7 +38,7 @@ Hi!
 
 Преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
 
-##### Новые навыки:
+#### Новые навыки:
 
 * native/vanilla JavaScript
 * ES-2015 (ES6)
@@ -48,9 +48,9 @@ Hi!
 
 ---
 
-#### Места работы
+### Места работы
 
-* ##### Февраль 2015 — Февраль 2017
+* #### Февраль 2015 — Февраль 2017
   - 2 года
   - [Kodix](kodi.xxx), Москва
 
@@ -76,7 +76,7 @@ Hi!
   - [https://chopchop.shop](https://chopchop.shop)
   - [https://itkbrotherhood.ru](https://itkbrotherhood.ru)
 
-* ##### Октябрь 2012 — Декабрь 2014
+* #### Октябрь 2012 — Декабрь 2014
   - 2 года 3 месяца
   - [XSoft](xsoft.org), Москва
 
@@ -88,50 +88,50 @@ Hi!
 
 ---  
 
-#### Курсы / обучение / повышение квалификации
+### Курсы / обучение / повышение квалификации
 
-* ##### 2017 — «JavaScript/DOM/интерфейсы»
+* #### 2017 — «JavaScript/DOM/интерфейсы»
   курс от Ильи Кантора, портал [learn.javascript.ru](https://learn.javascript.ru/courses/js), преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
 
-* ##### 2017 — React.js курс для начинающих
+* #### 2017 — React.js курс для начинающих
   [react-course-ru от maxfarseer](https://www.gitbook.com/book/maxfarseer/react-course-ru/details)
 
-* ##### 2016 — Онлайн-курс "JavaScript Roadtrip"
+* #### 2016 — Онлайн-курс "JavaScript Roadtrip"
   CodeSchool:
   - [part I](https://www.codeschool.com/courses/javascript-road-trip-part-1)
   - [part II](https://www.codeschool.com/courses/javascript-road-trip-part-2)
   - [part III](https://www.codeschool.com/courses/javascript-road-trip-part-3)
 
-* ##### 2016 — Онлайн-курс "Введение в JavaScript"
+* #### 2016 — Онлайн-курс "Введение в JavaScript"
   [от Hexlet](https://ru.hexlet.io/courses/javascript_101)
 
-* ##### 2015 — Интерактивные онлайн-курсы по HTML и CSS
+* #### 2015 — Интерактивные онлайн-курсы по HTML и CSS
   [от HTML Academy](https://htmlacademy.ru/program)
 
-* ##### 2015 — Онлайн-курс "jQuery"
+* #### 2015 — Онлайн-курс "jQuery"
   [от Codecademy](https://www.codecademy.com/learn/jquery)
 
-* ##### 2015 — Онлайн-курс "Try jQuery"
+* #### 2015 — Онлайн-курс "Try jQuery"
   [от CodeSchool](https://www.codeschool.com/courses/try-jquery)
 
-* ##### 2015 — Онлайн курсы: Try Git + Git Real + Mastering GitHub
+* #### 2015 — Онлайн курсы: Try Git + Git Real + Mastering GitHub
   CodeSchool:
   - [Try Git](https://www.codeschool.com/courses/try-git)
   - [Git Real](https://www.codeschool.com/courses/git-real)
   - [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
 
 
-* ##### 2012 — HTML и CSS. Уровень 1. Создание сайтов по стандартам W3C и переход на HTML5 и СSS3
+* #### 2012 — HTML и CSS. Уровень 1. Создание сайтов по стандартам W3C и переход на HTML5 и СSS3
 
   Центр компьютерного обучения "Специалист" при МГТУ им. Баумана
 
-* ##### 2012 — Основы программирования и баз данных
+* #### 2012 — Основы программирования и баз данных
 
   Центр компьютерного обучения "Специалист" при МГТУ им. Баумана
 
 ---  
 
-#### Мои аккаунты
+### Мои аккаунты
 
 * [GitHub](https://github.com/EkaterinaSava)
 * [Codecademy](https://www.codecademy.com/EkaterinaSava)
