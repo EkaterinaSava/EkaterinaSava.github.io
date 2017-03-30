@@ -5,7 +5,7 @@ permalink: /about/
 
 Hi!
 
-Верстаю с 2012 года
+Верстаю с 2012 года.
 
 ---
 
@@ -34,14 +34,16 @@ Hi!
 
 ---
 
-С 30 января по 30 марта прохожу курс [«JavaScript/DOM/интерфейсы»](https://learn.javascript.ru/courses/js) от Ильи Кантора. Преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
+С 30 января по 6 апреля прохожу курс [«JavaScript/DOM/интерфейсы»](https://learn.javascript.ru/courses/js) от Ильи Кантора.
+
+Преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
 
 Новые навыки:
 
-* native javascript
+* native/vanilla JavaScript
 * ES-2015 (ES6)
 * работа с DOM
-* Ajax
+* Ajax / XMLHttpRequest
 * Webpack
 
 ---

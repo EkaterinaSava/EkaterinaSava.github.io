@@ -852,3 +852,21 @@ title: Learn.JavaScript.ru Practice
   - git ([шпаргалка](https://github.com/nicothin/web-development/tree/master/git#При-любом-действии-с-github-или-другим-удалённым-сервисом-запрешивается-логинпароль))
   - npm ([шпаргалка](https://habrahabr.ru/post/133363/))
   - node.js ([скринкаст](http://learn.javascript.ru/screencast/nodejs))
+
+---
+
+  <h2 class="post__small-heading">Занятие 16 – 27/03/2017</h2>  
+
+  Прочитать следующие главы:
+
+  <h4 class="post__small-subheading">AJAX и COMET</h4>
+
+  * Введение в AJAX и COMET
+
+  * Node.JS для решения задач
+
+  * Основы XMLHttpRequest
+
+    :pencil: Выведите телефоны <sup>:five:</sup> [:link:]()
+
+  * XMLHttpRequest POST, формы и кодировка
