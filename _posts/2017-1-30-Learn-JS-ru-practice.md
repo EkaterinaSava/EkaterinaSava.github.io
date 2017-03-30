@@ -514,7 +514,7 @@ title: Learn.JavaScript.ru Practice
 
   * Внутреннее устройство поисковых методов
 
-    :pencil: #8 Длина коллекции после удаления элементов http://learn.javascript.ru/task/collection-length-after-remove
+    :pencil: #8 Длина коллекции после удаления элементов [:link:](http://learn.javascript.ru/task/collection-length-after-remove)
     <script async src="//jsfiddle.net/ekaterinasava/Lwmghth7/embed/js,html,result/"></script>
 
     :pencil: #9 Сравнение количества элементов <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/compare-elements-count)
@@ -859,7 +859,7 @@ title: Learn.JavaScript.ru Practice
 
   Прочитать следующие главы:
 
-  <h4 class="post__small-subheading">AJAX и COMET</h4>
+  <h4 class="post__small-subheading">Ajax и Comet</h4>
 
   * Введение в AJAX и COMET
 
