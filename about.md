@@ -9,7 +9,7 @@ Hi!
 
 ---
 
-Умею:
+#### Умею:
 
 * html + css
 * jquery
@@ -19,7 +19,7 @@ Hi!
 * postcss workflow
 * git
 
-Знаю:
+##### Знаю:
 
 * bootstrap
 * squarespace
@@ -27,7 +27,7 @@ Hi!
 * lightroom
 * sketch
 
-Использую:
+##### Использую:
 
 * phpstorm / webstorm
 * atom / brackets
@@ -38,7 +38,7 @@ Hi!
 
 Преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
 
-Новые навыки:
+###### Новые навыки:
 
 * native/vanilla JavaScript
 * ES-2015 (ES6)
@@ -48,7 +48,7 @@ Hi!
 
 ---
 
-Места работы:
+#### Места работы:
 
 * __Февраль 2015 — Февраль 2017__
   - 2 года
