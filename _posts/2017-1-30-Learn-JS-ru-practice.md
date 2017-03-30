@@ -870,3 +870,28 @@ title: Learn.JavaScript.ru Practice
     :pencil: Выведите телефоны <sup>:five:</sup> [:link:]()
 
   * XMLHttpRequest POST, формы и кодировка
+
+  <h4 class="post__small-subheading">Современные возможности ES-2015</h4>
+
+  * Модули
+
+  :heavy_plus_sign: <b>pull/merge учебного проекта</b>
+
+---
+
+  <h2 class="post__small-heading">Занятие 17 – 30/03/2017</h2>  
+
+  Прочитать следующие главы:
+
+  <h4 class="post__small-subheading">Ajax и Comet</h4>
+
+  * WebSocket
+  * Server Side Events -- события с сервера
+  * IFRAME для AJAX и COMET
+  * Атака CSRF
+  * Метод fetch: замена XMLHttpRequest
+  * Таблица транспортов и их возможностей
+
+  <h4 class="post__small-subheading">Современные возможности ES-2015</h4>
+
+  * Promise
