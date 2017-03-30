@@ -55,7 +55,7 @@ Hi!
   - 2 года
   - [Kodix](kodi.xxx), Москва
 
-  _Старший HTML-верстальщик*_
+  __*Старший HTML-верстальщик*__
 
   - Старший верстальщик фронтенд-отдела в подразделении e-commerce
   - Обучение, консультация, ревью кода других верстальщиков
@@ -81,7 +81,7 @@ Hi!
   - 2 года 3 месяца
   - [XSoft](xsoft.org), Москва
 
-  _HTML-верстальщик_
+  __*HTML-верстальщик*__
 
   - HTML/CSS-верстка облачной системы Orbios [https://promo.orbios.com](https://promo.orbios.com)
   - Разработка и поддержка фреймворка, на основе которого строилась архитектура проекта
@@ -143,4 +143,4 @@ Hi!
 
 ---
 
-##### E-mail me → [ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
+#### E-mail me → [ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
