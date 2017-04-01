@@ -518,20 +518,27 @@ title: Learn.JavaScript.ru Practice
     <script async src="//jsfiddle.net/ekaterinasava/Lwmghth7/embed/js,html,result/"></script>
 
     :pencil: #9 Сравнение количества элементов <sup>:five:</sup> [:link:](http://learn.javascript.ru/task/compare-elements-count)
+    <script async src="//jsfiddle.net/ekaterinasava/2ov8yxva/embed/js,result/"></script>
 
     :pencil: #10 Бенчмаркинг методов поиска в DOM <sup>:two:</sup> [:link:](http://learn.javascript.ru/task/benchmark-search-dom)
+    <script async src="//jsfiddle.net/ekaterinasava/ju9jac3b/embed/js,result/"></script>
 
-    :pencil: #11 Получить второй LI
+    :pencil: #11 Получить второй LI <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/get-second-li)
+    <script async src="//jsfiddle.net/ekaterinasava/4fre8hs3/embed/js,html,result/"></script>
 
   * Свойства узлов: тип, тег и содержимое
 
-    :pencil: Что выведет код в консоли?
+    :pencil: #12 Что выведет код в консоли? <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/console-firstchild-innerhtml)
+    <script async src="//jsfiddle.net/ekaterinasava/ukznfu2c/embed/js,result/"></script>
 
-    :pencil: В инлайн скрипте lastChild.nodeType
+    :pencil: #13 В инлайн скрипте lastChild.nodeType <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/lastchild-nodetype-inline)
+    <script async src="//jsfiddle.net/ekaterinasava/c5h4zpsh/embed/html,result/"></script>
 
-    :pencil: Тег в комментарии
+    :pencil: #14 Тег в комментарии <sup>:three:</sup> [:link:](https://learn.javascript.ru/task/tag-in-comment)
+    <script async src="//jsfiddle.net/ekaterinasava/r6hb57du/embed/js,result/"></script>
 
-    :pencil: Где в DOM-иерархии document?
+    :pencil: #15 Где в DOM-иерархии document? <sup>:four:</sup> [:link:](https://learn.javascript.ru/task/where-document-in-hierarchy)
+    <script async src="//jsfiddle.net/ekaterinasava/dhuxemge/embed/js,result/"></script>
 
   * Современный DOM: полифиллы
 
@@ -867,7 +874,7 @@ title: Learn.JavaScript.ru Practice
 
   * Основы XMLHttpRequest
 
-    :pencil: Выведите телефоны <sup>:five:</sup> [:link:]()
+    :pencil: Выведите телефоны <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/phones-list)
 
   * XMLHttpRequest POST, формы и кодировка
 

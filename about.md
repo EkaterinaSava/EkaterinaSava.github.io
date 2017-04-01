@@ -43,8 +43,8 @@ Hi!
 * native/vanilla JavaScript
 * ES-2015 (ES6)
 * работа с DOM
-* Ajax / XMLHttpRequest
-* Webpack
+* Ajax: XMLHttpRequest / fetch
+* сборка с Webpack
 
 ---
 
