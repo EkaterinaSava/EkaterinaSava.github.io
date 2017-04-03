@@ -30,3 +30,7 @@ title: JavaScript Code Patterns
   Пример, использующий XMLHttpRequest API для инициализации AJAX запроса (все шаги описаны в комментариях кода):
 
   <script async src="//jsfiddle.net/ekaterinasava/ksq056cs/embed/"></script>
+
+---
+
+  

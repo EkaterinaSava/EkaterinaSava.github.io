@@ -92,19 +92,19 @@ Hi!
 ### Курсы / обучение / повышение квалификации
 
 
-* #### 2017 — «JavaScript/DOM/интерфейсы»
+* #### январь-апрель 2017 — «JavaScript/DOM/интерфейсы»
   курс от Ильи Кантора, портал [learn.javascript.ru](https://learn.javascript.ru/courses/js), преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
 
-* #### 2017 — React.js курс для начинающих
+* #### январь 2017 — React.js курс для начинающих
   [react-course-ru от maxfarseer](https://www.gitbook.com/book/maxfarseer/react-course-ru/details)
 
-* #### 2016 — Онлайн-курс "JavaScript Roadtrip"
+* #### май 2016 — Онлайн-курс "JavaScript Roadtrip"
   CodeSchool:
   - [part I](https://www.codeschool.com/courses/javascript-road-trip-part-1)
   - [part II](https://www.codeschool.com/courses/javascript-road-trip-part-2)
   - [part III](https://www.codeschool.com/courses/javascript-road-trip-part-3)
 
-* #### 2016 — Онлайн-курс "Введение в JavaScript"
+* #### июнь 2016 — Онлайн-курс "Введение в JavaScript"
   [от Hexlet](https://ru.hexlet.io/courses/javascript_101)
 
 * #### 2015 — Интерактивные онлайн-курсы по HTML и CSS
