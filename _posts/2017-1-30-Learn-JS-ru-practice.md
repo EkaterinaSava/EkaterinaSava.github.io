@@ -542,41 +542,56 @@ title: Learn.JavaScript.ru Practice
 
   * Современный DOM: полифиллы
 
-    :pencil: Полифилл для matches
+    :pencil: #16 Полифилл для matches <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/polyfill-matches)
+    <script async src="//jsfiddle.net/ekaterinasava/34pzr5rh/embed/js,html/"></script>
 
-    :pencil: Полифилл для closest
+    :pencil: #17 Полифилл для closest <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/polyfill-closest)
+    <script async src="//jsfiddle.net/ekaterinasava/fyLu2vyw/embed/js,html/"></script>
 
-    :pencil: Полифилл для textContent
+    :pencil: #18 Полифилл для textContent <sup>:three:</sup> [:link:](https://learn.javascript.ru/task/polyfill-textcontent-ie8)
+    <script async src="//jsfiddle.net/ekaterinasava/e7wzcep9/embed/js,html/"></script>
 
   * Атрибуты и DOM-свойства
 
-    :pencil: Получите пользовательский атрибут
+    :pencil: #19 Получите пользовательский атрибут <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/get-user-attribute)
+    <script async src="//jsfiddle.net/ekaterinasava/Lb8ht6qe/embed/js,html,result/"></script>
 
-    :pencil: Поставьте класс ссылкам
+    :pencil: #20 Поставьте класс ссылкам <sup>:three:</sup> [:link:](https://learn.javascript.ru/task/set-class-links)
+    <script async src="//jsfiddle.net/ekaterinasava/Lh63sy4w/embed/"></script>
 
-    :pencil: Методы contains и compareDocumentPosition
+  * Методы contains и compareDocumentPosition
 
-    :pencil: Добавление и удаление узлов
+  * Добавление и удаление узлов
 
-    :pencil: createTextNode vs innerHTML
+    :pencil: #21 createTextNode vs innerHTML <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/createtextnode-vs-innerhtml)
+    <script async src="//jsfiddle.net/ekaterinasava/kryj7z6z/embed/js,html,result/"></script>
 
-    :pencil: Удаление элементов
+    :pencil: #22 Удаление элементов <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/remove-polyfill)
+    <script async src="//jsfiddle.net/ekaterinasava/vodcaphf/embed/js,html,result/"></script>
 
-    :pencil: insertAfter
+    :pencil: #23 insertAfter <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/insert-after)
+    <script async src="//jsfiddle.net/ekaterinasava/bvpbjt24/embed/js,html,result/"></script>
 
-    :pencil: removeChildren
+    :pencil: #24 removeChildren <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/remove-children)
+    <script async src="//jsfiddle.net/ekaterinasava/7wkqc4tq/embed/js,html,result/"></script>
 
-    :pencil: Почему остаётся "ааа" ?
+    :pencil: #25 Почему остаётся "ааа"? <sup>:one:</sup> [:link:](https://learn.javascript.ru/task/why-aaa)
+    <script async src="//jsfiddle.net/ekaterinasava/ba44e3cx/embed/js,html,result/"></script>
 
-    :pencil: Создать список
+    :pencil: #26 Создать список <sup>:four:</sup> [:link:](https://learn.javascript.ru/task/create-list)
+    <script async src="//jsfiddle.net/ekaterinasava/tdy3z85w/embed/js,html,result/"></script>
 
-    :pencil: Создайте дерево из объекта
+    :pencil: #27 Создайте дерево из объекта <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/create-object-tree)
+    <script async src="//jsfiddle.net/ekaterinasava/0efrxczv/embed/js,html,result/"></script>
 
-    :pencil: Дерево
+    :pencil: #28 Дерево <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/tree-count)
+    <script async src="//jsfiddle.net/ekaterinasava/fpkhzk46/embed/js,html,result/"></script>
 
-    :pencil: Создать календарь в виде таблицы
+    :pencil: #29 Создать календарь в виде таблицы <sup>:four:</sup> [:link:](https://learn.javascript.ru/task/calendar-table)
+    --
 
-    :pencil: Часики с использованием "setInterval"
+    :pencil: #30 Часики с использованием "setInterval" <sup>:four:</sup> [:link:](https://learn.javascript.ru/task/clock-setinterval)
+    --
 
   * Мультивставка: insertAdjacentHTML и DocumentFragment
 
@@ -604,13 +619,14 @@ title: Learn.JavaScript.ru Practice
 
     :pencil: Расширить элемент
 
-    :pencil: В чём отличие "width" и "clientWidth" ?
+    :pencil: В чём отличие "width" и "clientWidth"?
 
   * Размеры и прокрутка страницы
 
     :pencil: Полифилл для pageYOffset в IE8
 
   * Координаты в окне
+
     :pencil: Найдите координаты точки в документе
 
     :pencil: Разместить заметку рядом с элементом
@@ -693,11 +709,13 @@ title: Learn.JavaScript.ru Practice
 
   * Действия браузера по умолчанию
 
-    :pencil: Почему не работает return false?
+    :pencil: #5 Почему не работает return false? <sup>:three:</sup> [:link:](https://learn.javascript.ru/task/why-return-false-fails)
+    <script async src="//jsfiddle.net/ekaterinasava/0nvLbnz0/embed/html,result/"></script>
 
-    :pencil: Поймайте переход по ссылке
+    :pencil: #6 Поймайте переход по ссылке <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/catch-link-navigation)
+    <script async src="//jsfiddle.net/ekaterinasava/05q8267y/embed/"></script>
 
-    :pencil: Галерея изображений
+    :pencil: #7 Галерея изображений <sup>:five:</sup> [:link:](https://learn.javascript.ru/task/image-gallery)
 
   * Генерация событий на элементах
 
