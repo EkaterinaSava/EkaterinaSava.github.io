@@ -30,11 +30,11 @@ Hi!
 #### Использую:
 
 * phpstorm / webstorm
-* atom / brackets
+* atom
 
 ---
 
-С 30 января по 6 апреля прохожу курс [«JavaScript/DOM/интерфейсы»](https://learn.javascript.ru/courses/js) от Ильи Кантора.
+<!-- С 30 января по 6 апреля прохожу курс [«JavaScript/DOM/интерфейсы»](https://learn.javascript.ru/courses/js) от Ильи Кантора.
 
 Преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
 
@@ -44,11 +44,27 @@ Hi!
 * ES-2015 (ES6)
 * работа с DOM
 * Ajax: XMLHttpRequest / fetch
-* сборка с Webpack
+* сборка с Webpack -->
 
 ---
 
 ### Места работы
+
+* #### Апрель 2017 — настоящее время
+  - 8 месяцев
+  - [ООО «НефтеГазТрейдинг»](kodi.xxx), Москва
+
+  [«В точку» Маркет](https://vtochku.market/)
+
+  [«В точку» Экспресс](https://vtochku.express/)
+
+  __*Фронтенд-разработчик*__
+
+  - Единственный frontend-developer в команде из 30 разработчиков :)
+  - Разработка клиентской части административного кабинета Маркета и Службы доставки
+  - Верстка и поддержка лендингов
+    _Маркет_ [https://vtochku.market/](https://vtochku.market/)
+    _Экспресс-доставка_ [https://vtochku.express/](https://vtochku.express/)
 
 
 * #### Февраль 2015 — Февраль 2017
