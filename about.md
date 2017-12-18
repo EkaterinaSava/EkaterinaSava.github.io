@@ -72,7 +72,7 @@ Hi!
       * _Маркет_ [https://vtochku.market/](https://vtochku.market/)
       * _Экспресс-доставка_ [https://vtochku.express/](https://vtochku.express/)
   - Фронтенд-разработка сайта по продаже билетов VR-аттрикциона «Anvio»
-    [Anvio VR](https://ru.anviovr.com/)
+      * [Anvio VR](https://ru.anviovr.com/)
   - Разработка компонентов для 2 админок – маркета и службы доставки, на основе которых разработчики собирают страницы административных панелей  
 
 
