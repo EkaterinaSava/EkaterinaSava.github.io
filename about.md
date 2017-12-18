@@ -9,6 +9,12 @@ Hi!
 
 ---
 
+Кроссбраузерно.
+Семантично.
+Валидно.
+
+---
+
 #### Умею:
 
 * html + css
@@ -50,11 +56,11 @@ Hi!
 
 ### Места работы
 
-* #### Апрель 2017 — настоящее время
+* #### Апрель 2017 — настоящее время (8 месяцев)
   - 8 месяцев
   - ООО «НефтеГазТрейдинг», Москва
   – Работа в командах проектов
-  
+
   [«В точку» Маркет](https://vtochku.market/)
 
   [«В точку» Экспресс](https://vtochku.express/)
@@ -68,6 +74,7 @@ Hi!
     _Экспресс-доставка_ [https://vtochku.express/](https://vtochku.express/)
   – Фронтенд-разработка сайта по продаже билетов VR-аттрикциона «Anvio»
     [Anvio VR](https://ru.anviovr.com/)
+  — Разработка компонентов для 2 админок – маркета и службы доставки, на основе которых разработчики собирают страницы административных панелей  
 
 
 * #### Февраль 2015 — Февраль 2017
@@ -95,6 +102,7 @@ Hi!
   - [https://leform.ru](https://leform.ru)
   - [https://chopchop.shop](https://chopchop.shop)
   - [https://itkbrotherhood.ru](https://itkbrotherhood.ru)
+  _(+ примерно столько же незапущенных; всего я сверстала порядка 20 интернет-магазинов)_
 
 * #### Октябрь 2012 — Декабрь 2014
   - 2 года 3 месяца
@@ -110,12 +118,12 @@ Hi!
 
 ### Курсы / обучение / повышение квалификации
 
-
 * #### январь-апрель 2017 — «JavaScript/DOM/интерфейсы»
   курс от Ильи Кантора, портал [learn.javascript.ru](https://learn.javascript.ru/courses/js), преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
 
 * #### январь 2017 — React.js курс для начинающих
   [react-course-ru от maxfarseer](https://www.gitbook.com/book/maxfarseer/react-course-ru/details)
+  [мой репозиторий :octocat:](https://github.com/EkaterinaSava/react-course-ru__practice)
 
 * #### май 2016 — Онлайн-курс "JavaScript Roadtrip"
   CodeSchool:
@@ -140,7 +148,6 @@ Hi!
   - [Try Git](https://www.codeschool.com/courses/try-git)
   - [Git Real](https://www.codeschool.com/courses/git-real)
   - [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
-
 
 * #### 2012 — HTML и CSS. Уровень 1. Создание сайтов по стандартам W3C и переход на HTML5 и СSS3
 
