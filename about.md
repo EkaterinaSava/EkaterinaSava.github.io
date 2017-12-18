@@ -121,8 +121,8 @@ Hi!
   курс от Ильи Кантора, портал [learn.javascript.ru](https://learn.javascript.ru/courses/js), преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
 
 * ##### январь 2017 — React.js курс для начинающих
-  [react-course-ru от maxfarseer](https://www.gitbook.com/book/maxfarseer/react-course-ru/details)
-  [мой репозиторий :octocat:](https://github.com/EkaterinaSava/react-course-ru__practice)
+  - [react-course-ru от maxfarseer](https://www.gitbook.com/book/maxfarseer/react-course-ru/details)
+  - [мой репозиторий :octocat:](https://github.com/EkaterinaSava/react-course-ru__practice)
 
 * ##### май 2016 — Онлайн-курс "JavaScript Roadtrip"
   CodeSchool:

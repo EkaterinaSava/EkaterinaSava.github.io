@@ -47,7 +47,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $lato;
+  font-family: $merriweather;
   font-weight: 700;
   line-height: 1.2;
   margin: 1em 0 15px;
@@ -143,7 +143,7 @@ em, i {
 }
 
 strong, b {
-  // font-family: $lato;
+  // font-family: $merriweather;
   font-weight: 600;
   letter-spacing: 0.05em;
 }
@@ -374,7 +374,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-size: 20px;
-    font-family: $lato;
+    font-family: $merriweather;
     font-weight: 400;
     letter-spacing: 0.05em;
     line-height: 1.5em;
@@ -422,7 +422,7 @@ nav {
   }
 
   &__heading {
-    font-family: $lato;
+    font-family: $merriweather;
     font-weight: 400;
     letter-spacing: 0.05em;
     font-size: 36px;
@@ -434,7 +434,7 @@ nav {
     }
   }
   &__small-heading {
-    font-family: $lato;
+    font-family: $merriweather;
     font-weight: 400;
     letter-spacing: 0.03em;
     font-size: 28px;
@@ -442,7 +442,7 @@ nav {
     margin-bottom: .4em;
   }
   &__small-subheading {
-    font-family: $lato;
+    font-family: $merriweather;
     font-weight: 400;
     letter-spacing: 0.015em;
     font-size: 20px;
