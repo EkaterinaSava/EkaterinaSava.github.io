@@ -101,6 +101,7 @@ Hi!
   - [https://leform.ru](https://leform.ru)
   - [https://chopchop.shop](https://chopchop.shop)
   - [https://itkbrotherhood.ru](https://itkbrotherhood.ru)
+  
   _(+ примерно столько же незапущенных; всего я сверстала порядка 20 интернет-магазинов)_
 
 * #### Октябрь 2012 — Декабрь 2014
