@@ -54,11 +54,9 @@ Hi!
 * Ajax: XMLHttpRequest / fetch
 * сборка с Webpack -->
 
----
-
 ### Места работы
 
-* #### Апрель 2017 — настоящее время (8 месяцев)
+* ##### Апрель 2017 — настоящее время (8 месяцев)
   - 8 месяцев
   - ООО «НефтеГазТрейдинг», Москва
 
@@ -78,7 +76,7 @@ Hi!
   - Разработка компонентов для 2 админок – маркета и службы доставки, на основе которых разработчики собирают страницы административных панелей  
 
 
-* #### Февраль 2015 — Февраль 2017
+* ##### Февраль 2015 — Февраль 2017
   - 2 года
   - [Kodix](kodi.xxx), Москва
 
@@ -105,7 +103,7 @@ Hi!
   - [https://itkbrotherhood.ru](https://itkbrotherhood.ru)
   _(+ примерно столько же незапущенных; всего я сверстала порядка 20 интернет-магазинов)_
 
-* #### Октябрь 2012 — Декабрь 2014
+* ##### Октябрь 2012 — Декабрь 2014
   - 2 года 3 месяца
   - [XSoft](xsoft.org), Москва
 
@@ -119,42 +117,42 @@ Hi!
 
 ### Курсы / обучение / повышение квалификации
 
-* #### январь-апрель 2017 — «JavaScript/DOM/интерфейсы»
+* ##### январь-апрель 2017 — «JavaScript/DOM/интерфейсы»
   курс от Ильи Кантора, портал [learn.javascript.ru](https://learn.javascript.ru/courses/js), преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
 
-* #### январь 2017 — React.js курс для начинающих
+* ##### январь 2017 — React.js курс для начинающих
   [react-course-ru от maxfarseer](https://www.gitbook.com/book/maxfarseer/react-course-ru/details)
   [мой репозиторий :octocat:](https://github.com/EkaterinaSava/react-course-ru__practice)
 
-* #### май 2016 — Онлайн-курс "JavaScript Roadtrip"
+* ##### май 2016 — Онлайн-курс "JavaScript Roadtrip"
   CodeSchool:
   - [part I](https://www.codeschool.com/courses/javascript-road-trip-part-1)
   - [part II](https://www.codeschool.com/courses/javascript-road-trip-part-2)
   - [part III](https://www.codeschool.com/courses/javascript-road-trip-part-3)
 
-* #### июнь 2016 — Онлайн-курс "Введение в JavaScript"
+* ##### июнь 2016 — Онлайн-курс "Введение в JavaScript"
   [от Hexlet](https://ru.hexlet.io/courses/javascript_101)
 
-* #### 2015 — Интерактивные онлайн-курсы по HTML и CSS
+* ##### 2015 — Интерактивные онлайн-курсы по HTML и CSS
   [от HTML Academy](https://htmlacademy.ru/program)
 
-* #### 2015 — Онлайн-курс "jQuery"
+* ##### 2015 — Онлайн-курс "jQuery"
   [от Codecademy](https://www.codecademy.com/learn/jquery)
 
-* #### 2015 — Онлайн-курс "Try jQuery"
+* ##### 2015 — Онлайн-курс "Try jQuery"
   [от CodeSchool](https://www.codeschool.com/courses/try-jquery)
 
-* #### 2015 — Онлайн курсы: Try Git + Git Real + Mastering GitHub
+* ##### 2015 — Онлайн курсы: Try Git + Git Real + Mastering GitHub
   CodeSchool:
   - [Try Git](https://www.codeschool.com/courses/try-git)
   - [Git Real](https://www.codeschool.com/courses/git-real)
   - [Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
 
-* #### 2012 — HTML и CSS. Уровень 1. Создание сайтов по стандартам W3C и переход на HTML5 и СSS3
+* ##### 2012 — HTML и CSS. Уровень 1. Создание сайтов по стандартам W3C и переход на HTML5 и СSS3
 
   Центр компьютерного обучения "Специалист" при МГТУ им. Баумана
 
-* #### 2012 — Основы программирования и баз данных
+* ##### 2012 — Основы программирования и баз данных
 
   Центр компьютерного обучения "Специалист" при МГТУ им. Баумана
 
