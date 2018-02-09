@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Cоздание блога с помощью GitHub Pages
+title: Jekyll-блог на GitHub Pages
 ---
 
-Краткая инструкция в 3 шагах по созданию аналогичного блога
+Краткая инструкция в 3 шагах по созданию аналогичного блога за 5 минут. 
 
 ---
 
@@ -14,7 +14,7 @@ title: Cоздание блога с помощью GitHub Pages
   * Шаг 3. IDE: VSC → Checkout from Version Control → Git → git@github.com:EkaterinaSava/EkaterinaSava.github.io.git
 
 ---
-  
-Основной конфигурационный файл: __config.yml
 
-Каждый пост создается как отдельный .md файл в папке post
+Основной конфигурационный файл: __config.yml__
+
+Каждый пост создается как отдельный .md файл в папке post, имя которого начинается с даты в фомате YYYY/M/D

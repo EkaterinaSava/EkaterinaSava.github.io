@@ -12,7 +12,7 @@ title: Git-stuff
 
 #### git add + git commit + msg
 
-    git commit -a -m 'added something new'
+  git commit -a -m 'added something new'
 
 Команда `git add` добавляет содержимое рабочей директории в
 индекс (staging area) для последующего коммита.
@@ -24,12 +24,10 @@ title: Git-stuff
 
 #### git stash
 
-    git stash
+  git stash
 
 Команда git stash используется для временного сохранения всех
 незакоммиченных изменений для очистки рабочей директории без
 необходимости коммитить незавершённую работу в новую ветку.
 
 ---
-
-<!-- 11/01/2017 -->

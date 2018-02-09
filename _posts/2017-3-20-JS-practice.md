@@ -3,7 +3,7 @@ layout: post
 title: JavaScript Practice
 ---
 
-:pencil: Решения различных задачек
+:pencil: Решения различных задачек.
 
 ---
 
