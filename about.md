@@ -61,6 +61,10 @@ Hi!
 * Ajax: XMLHttpRequest / fetch
 * сборка с Webpack -->
 
+{% comment %}
+    These commments will not include inside the source.
+{% endcomment %}
+
 ### Места работы
 
 * #### Апрель 2017 — настоящее время
