@@ -49,6 +49,7 @@ Hi!
 
 ---
 
+<!--
 {% comment %}
   С 30 января по 6 апреля прохожу курс [«JavaScript/DOM/интерфейсы»](https://learn.javascript.ru/courses/js) от Ильи Кантора.
 
@@ -62,6 +63,7 @@ Hi!
   * Ajax: XMLHttpRequest / fetch
   * сборка с Webpack
 {% endcomment %}
+-->
 
 ### Места работы
 
