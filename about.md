@@ -22,7 +22,7 @@ Hi!
 * html + css
 * jquery
 * gulp
-* jade
+* pug (ex-jade)
 * less / scss / precss
 * postcss workflow
 * git
@@ -34,11 +34,14 @@ Hi!
 * photoshop
 * lightroom
 * sketch
+* figma
 
 #### Использую:
 
 * phpstorm / webstorm
 * atom
+* terminal
+* macOS
 
 #### Учу в данный момент:
 
@@ -76,7 +79,7 @@ Hi!
   - Верстка и поддержка лендингов
       * _Маркет_ [https://vtochku.market/](https://vtochku.market/)
       * _Экспресс-доставка_ [https://vtochku.express/](https://vtochku.express/)
-  - Фронтенд-разработка сайта по продаже билетов VR-аттрикциона «Anvio»
+  - Фронтенд-разработка сайта VR-аттрикциона «Anvio»
       * [Anvio VR](https://ru.anviovr.com/)
 
 
