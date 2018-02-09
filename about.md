@@ -49,20 +49,18 @@ Hi!
 
 ---
 
-<!-- С 30 января по 6 апреля прохожу курс [«JavaScript/DOM/интерфейсы»](https://learn.javascript.ru/courses/js) от Ильи Кантора.
-
-Преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
-
-#### Новые навыки:
-
-* native/vanilla JavaScript
-* ES-2015 (ES6)
-* работа с DOM
-* Ajax: XMLHttpRequest / fetch
-* сборка с Webpack -->
-
 {% comment %}
-    These commments will not include inside the source.
+  С 30 января по 6 апреля прохожу курс [«JavaScript/DOM/интерфейсы»](https://learn.javascript.ru/courses/js) от Ильи Кантора.
+
+  Преподаватель – [Илья Бурлак](https://learn.javascript.ru/profile/ilya-burlak)
+
+  #### Новые навыки:
+
+  * native/vanilla JavaScript
+  * ES-2015 (ES6)
+  * работа с DOM
+  * Ajax: XMLHttpRequest / fetch
+  * сборка с Webpack
 {% endcomment %}
 
 ### Места работы
