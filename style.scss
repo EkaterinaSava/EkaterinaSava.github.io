@@ -33,6 +33,7 @@ body {
   -ms-flex-direction: column;
   flex-direction: column;
   min-height: 100vh;
+  min-width: 320px;
 }
 
 .container {
@@ -85,7 +86,7 @@ h5 {
 }
 
 p {
-  line-height: 1.5em;
+  line-height: 1.35em;
   margin: 15px 0;
 }
 
@@ -397,6 +398,7 @@ nav {
 //
 
 .posts > .post {
+  padding-top: 35px;
   padding-bottom: 35px;
   position: relative;
 }
@@ -429,15 +431,9 @@ nav {
 
   &__heading {
     font-family: $merriweather;
-    font-weight: 400;
-    letter-spacing: 0.05em;
-    font-size: 36px;
-    margin-top: 1em;
+    font-size: 24px;
+    margin-top: 0;
     margin-bottom: .5em;
-
-    &-link {
-
-    }
   }
   &__small-heading {
     font-family: $merriweather;
