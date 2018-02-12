@@ -22,3 +22,5 @@ title: Jekyll-блог на GitHub Pages
 ---
 
 Документация Jekyll [на русском от Прогрессора](http://prgssr.ru/documentation/)
+
+---
