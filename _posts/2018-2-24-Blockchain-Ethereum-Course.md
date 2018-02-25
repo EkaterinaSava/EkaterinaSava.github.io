@@ -13,13 +13,15 @@ __Настройка окружения__
 
   — инструкция по [установке Geth](https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac) на MacOS
   — если кратко, то
+
     1. первая команда переключает в ветку brew, где есть ethereum
+
     2. вторая - устанавливает его
 
-  ```
+  ~~~
   brew tap ethereum/ethereum
   brew install ethereum
-  ```
+  ~~~
 
   —  после установки для запуска Geth со всеми необходимыми флагами прописываем в консоли:
 
