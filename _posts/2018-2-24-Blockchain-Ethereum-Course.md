@@ -19,10 +19,10 @@ __Настройка окружения__
 
 2. вторая - устанавливает его
 
-{% highlight %}
+{{ "{% highlight javascript " }}%}  
 brew tap ethereum/ethereum
 brew install ethereum
-{% endhighlight %}
+{{ "{% endhighlight " }}%}  
 
 *  после установки для запуска Geth со всеми необходимыми флагами прописываем в консоли:
 
