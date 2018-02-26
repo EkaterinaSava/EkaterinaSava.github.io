@@ -17,10 +17,13 @@ __Настройка окружения__
 
         + первая команда переключает в ветку brew, где есть ethereum
 
+        ```
+        brew tap ethereum/ethereum
+        ```
+
         + вторая - устанавливает его
 
         ```
-        brew tap ethereum/ethereum
         brew install ethereum
         ```
 
