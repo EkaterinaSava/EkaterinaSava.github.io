@@ -125,10 +125,6 @@ ul li {
   }
 }
 
-ol {
-  list-style-type: decimal;
-}
-
 ol li {
   line-height: 1.5em;
   margin: 8px 5px;
@@ -138,12 +134,16 @@ ol ul, ul ol, ul ul, ol ol {
   margin: 0;
 }
 
-ul, ol {
+ul {
   list-style-type: square;
 }
-ul > ul, ol > ul {
+ol {
+  list-style-type: decimal;
+}
+ul ul, ol ul {
   list-style-type: unset;
 }
+
 
 em, i {
   font-style: italic;
