@@ -27,7 +27,9 @@ __Настройка окружения__
   *  после установки для запуска Geth со всеми необходимыми флагами прописываем в консоли:
 
     ```
-    geth --dev --rpc --rpcaddr "0.0.0.0" --rpccorsdomain "*" --rpcapi "admin,debug,miner,shh,txpool,personal,eth,net,web3" --datadir "~/NewChain/firstTest" --networkid 1337 console
+    geth --dev --rpc --rpcaddr "0.0.0.0" --rpccorsdomain "*"
+    --rpcapi "admin,debug,miner,shh,txpool,personal,eth,net,web3"
+    --datadir "~/NewChain/firstTest" --networkid 1337 console
     ```
 
     (остановить его можно, напечатав в консоли `exit`)
