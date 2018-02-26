@@ -54,7 +54,8 @@ __Настройка окружения__
     * Команда в консоли для запуска Mist (после запуска Geth  в дополнительном окне терминала):
 
         ```
-        /Applications/Mist.app/Contents/MacOS/Mist --rpc http://localhost:8545 --swarmurl "null"
+        /Applications/Mist.app/Contents/MacOS/Mist
+        --rpc http://localhost:8545 --swarmurl "null"
         ```
 
 ---
