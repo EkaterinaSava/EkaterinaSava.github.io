@@ -49,4 +49,12 @@ __Настройка окружения__
 
 2. Установка Mist
 
+    * Здесь [можно скачать Mist](https://github.com/ethereum/mist/releases), на момент написания статьи рекомндуемый установочник – Mist-macosx-0-9-2.dmg
+
+    * Команда в консоли для запуска Mist (после запуска Geth  в дополнительном окне терминала):
+
+        ```
+        /Applications/Mist.app/Contents/MacOS/Mist --rpc http://localhost:8545 --swarmurl "null"
+        ```
+
 ---
