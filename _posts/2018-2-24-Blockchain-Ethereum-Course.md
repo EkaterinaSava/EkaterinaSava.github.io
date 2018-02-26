@@ -11,36 +11,36 @@ __Настройка окружения__
 
 1. Установка Geth (Go Ethereum — Official Go implementation of the Ethereum protocol)
 
-* инструкция по [установке Geth](https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac) на MacOS
+  * инструкция по [установке Geth](https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac) на MacOS
 
-* если кратко, то
+  * если кратко, то
 
-1. первая команда переключает в ветку brew, где есть ethereum
+    1. первая команда переключает в ветку brew, где есть ethereum
 
-2. вторая - устанавливает его
+    2. вторая - устанавливает его
 
-{{ "{% highlight javascript " }}%}  
-brew tap ethereum/ethereum
-brew install ethereum
-{{ "{% endhighlight " }}%}  
+    ```
+    brew tap ethereum/ethereum
+    brew install ethereum
+    ```
 
-*  после установки для запуска Geth со всеми необходимыми флагами прописываем в консоли:
+  *  после установки для запуска Geth со всеми необходимыми флагами прописываем в консоли:
 
-```
-geth --dev --rpc --rpcaddr "0.0.0.0" --rpccorsdomain "*" --rpcapi "admin,debug,miner,shh,txpool,personal,eth,net,web3" --datadir "~/NewChain/firstTest" --networkid 1337 console
-```
+    ```
+    geth --dev --rpc --rpcaddr "0.0.0.0" --rpccorsdomain "*" --rpcapi "admin,debug,miner,shh,txpool,personal,eth,net,web3" --datadir "~/NewChain/firstTest" --networkid 1337 console
+    ```
 
-(остановить его можно, напечатав в консоли `exit`)
+    (остановить его можно, напечатав в консоли `exit`)
 
-* затем необходимо создать новый аккаунт (не выходя из запущенного Geth)
+  * затем необходимо создать новый аккаунт (не выходя из запущенного Geth)
 
-```
-personal.newAccount('123')
-```
+    ```
+    personal.newAccount('123')
+    ```
 
-создаем 2 аккаунта, прописав эту команду 2 раза (рекомендация: использовать один и тот же пароль для всех аккаунтов)
+    создаем 2 аккаунта, прописав эту команду 2 раза (рекомендация: использовать один и тот же пароль для всех аккаунтов)
 
-_важно!_ потеря пароля от аккаунта лишает доступа к аккаунту, возможности восстановить его нет
+    _важно!_ потеря пароля от аккаунта лишает доступа к аккаунту, возможности восстановить его нет
 
 2. Установка Mist
 
