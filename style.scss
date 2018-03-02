@@ -151,8 +151,13 @@ em, i {
   font-style: italic;
 }
 
-strong, b {
+strong {
   font-family: $merriweather;
+  font-weight: 700;
+  color: $gray;
+}
+
+b {
   font-weight: 700;
   color: $gray;
 }
