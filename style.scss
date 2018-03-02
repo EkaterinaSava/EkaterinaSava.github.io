@@ -184,17 +184,38 @@ hr {
   background-color: transparent;
   border: 0;
   position: relative;
+
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
+    background-size: 100% 1px;
+    opacity: .1;
+  }
 }
-hr:after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
+hr.small {
   height: 1px;
-  background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
-  background-size: 100% 1px;
-  opacity: .1;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: transparent;
+  border: 0;
+  position: relative;
+
+  &:after {
+    content: '';
+    width: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 1px;
+    background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
+    background-size: 100% 1px;
+    opacity: .1;
+  }
 }
 
 
