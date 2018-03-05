@@ -11,15 +11,15 @@ title: Постоянно это гуглю
 
 via [stackoverflow](https://stackoverflow.com/questions/8191459/how-do-i-update-node-js)
 
-* Clear NPM's cache:
+<hr class="small">
+
+1. Clear NPM's cache
+2. Install a little helper called 'n'
+3. Install latest stable Node.js version
 
 `sudo npm cache clean -f`
 
-* Install a little helper called 'n'
-
 `sudo npm install -g n`
-
-* Install latest stable Node.js version
 
 `sudo n stable`
 
@@ -27,7 +27,7 @@ via [stackoverflow](https://stackoverflow.com/questions/8191459/how-do-i-update-
 
 <h2 class="post__small-heading">Проверка и апдейт пакетов npm</h2>
 
-* Для начала нужно уставить глобально специальный пакет [npm-check[(https://www.npmjs.com/package/npm-check)
+* Для начала нужно уставить глобально специальный пакет [npm-check](https://www.npmjs.com/package/npm-check)
 
 `npm install -g npm-check`
 
@@ -45,10 +45,9 @@ via [stackoverflow](https://stackoverflow.com/questions/8191459/how-do-i-update-
 
 * Проверить пакеты в директории
 
-```
-cd <path>
-npm-check
-```
+`cd <path>`
+
+`npm-check`
 
 ---
 
@@ -57,6 +56,8 @@ npm-check
 * Глобальное удаление пакетов (не требует установки чего-либо)
 
 `npm -g uninstall <package name>`
+
+<hr class="small">
 
 * Аналогично, но без флага `-g`, находясь в директории (ну или ручками, убрав пакет из `package.json`)
 
