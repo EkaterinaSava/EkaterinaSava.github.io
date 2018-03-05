@@ -17,11 +17,13 @@ via [stackoverflow](https://stackoverflow.com/questions/8191459/how-do-i-update-
 2. Install a little helper called 'n'
 3. Install latest stable Node.js version
 
-`sudo npm cache clean -f`
+<hr class="small">
 
-`sudo npm install -g n`
+  `sudo npm cache clean -f`
 
-`sudo n stable`
+  `sudo npm install -g n`
+
+  `sudo n stable`
 
 ---
 
@@ -29,25 +31,25 @@ via [stackoverflow](https://stackoverflow.com/questions/8191459/how-do-i-update-
 
 * Для начала нужно уставить глобально специальный пакет [npm-check](https://www.npmjs.com/package/npm-check)
 
-`npm install -g npm-check`
+  `npm install -g npm-check`
 
 <hr class="small">
 
 * Просто проверить глобально установленные пакеты
 
-`npm-check -g`
+  `npm-check -g`
 
 * Проверить и обновить нужные (покажет минорные/мажорные версии, главные фичи и т.п. — очень удобно!)
 
-`npm-check -gu`
+  `npm-check -gu`
 
 <hr class="small">
 
 * Проверить пакеты в директории
 
-`cd <path>`
+  `cd <path>`
 
-`npm-check`
+  `npm-check`
 
 ---
 
@@ -55,7 +57,7 @@ via [stackoverflow](https://stackoverflow.com/questions/8191459/how-do-i-update-
 
 * Глобальное удаление пакетов (не требует установки чего-либо)
 
-`npm -g uninstall <package name>`
+  `npm -g uninstall <package name>`
 
 <hr class="small">
 
