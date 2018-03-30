@@ -65,3 +65,30 @@ title: Теория Vue.js
 ---
 
 <h2 class="post__small-heading">Шаблоны</h2>
+
+Низкоуровневая база любого шаблона `Vue` — это `render`-функции. Все шаблоны будут скомпилированы в `render`-функции виртуального DOM. Очень простой пример:
+
+* шаблон:
+
+  `<h1>{{ blogTitle }}</h1>`
+
+* render-функция:
+
+  ```
+  render: function (createElement) {
+    return createElement('h1', this.blogTitle)
+  }
+  ```
+
+Можно писать `render`-функции напрямую, минуя шаблоны.
+В обоих случаях `Vue` обновит страницу при изменениях `blogTitle`.
+
+---
+
+<h2 class="post__small-heading">Работа со стилями</h2>
+
+**Классы как объект** `v-bind:class={ ... }`
+
+
+
+**Классы как массив** `v-bind:class=[ ... ]`
