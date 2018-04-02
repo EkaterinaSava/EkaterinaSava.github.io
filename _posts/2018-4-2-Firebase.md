@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :fire: Памятка / Firebase
+title: Памятка / :fire: Firebase
 ---
 
 Мини-туториал по добавлению проектов в Firebase с возможностью захостить демки на их домене.
