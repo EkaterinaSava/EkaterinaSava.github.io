@@ -9,9 +9,9 @@ title: Памятка / Firebase
 
 <h2 class="post__small-heading">Создание проекта</h2>
 
-* Идем на сайт [https://firebase.google.com/](https://firebase.google.com/?target=_blank)
+* Идем на сайт [https://firebase.google.com/](https://firebase.google.com/)
 
-* В верхнем правом углу по ссылке переходим [в консоль](https://console.firebase.google.com/u/0/?pli=1/?target=_blank)
+* В верхнем правом углу по ссылке переходим [в консоль](https://console.firebase.google.com/u/0/?pli=1)
 
 * Жмем кнопку «Добавить проект», выбираем имя проекта и регион, создаем его
 
@@ -31,7 +31,7 @@ npm install -g firebase-tools
 firebase login
 ```
 
-После этого откроется браузер и нужно будет залогиниться в гугло-аккаунт, после успешного логина в консоле будет надпись об успешном логине `✔  Success! Logged in as email@gmail.com`
+После этого откроется браузер и нужно будет залогиниться в гугло-аккаунт, после успешного логина в консоле будет надпись об успешном логине `✔  Success! Logged in as ekaterinasava@gmail.com`
 
 
 ---
