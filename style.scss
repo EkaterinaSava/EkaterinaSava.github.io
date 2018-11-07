@@ -517,8 +517,12 @@ footer {
 .about-page-holder {
 
   &__workplaces ~ h4 {
-    background-color: $darkBlue;
-    color: white;
+    display: inline-block;
+    color: $darkBlue;
+    border-top: 1px solid $darkBlue;
+    padding-top: 20px;
+    padding-right: 5px;
+    margin-top: 40px;
   }
 }
 
