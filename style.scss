@@ -480,10 +480,6 @@ nav {
     margin-top: 10px;
   }
 
-  &__body {
-
-  }
-
   .read-more {
     text-transform: uppercase;
     font-size: 11px;
@@ -501,6 +497,7 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
 .footer {
   &__social-link {
     margin: 5px 5px 0;
@@ -511,9 +508,17 @@ footer {
 
 /*** custom 'list' stuff ***/
 .list {
-
   &__desc {
-      font-size: .8em;
+    font-size: .8em;
+  }
+}
+
+/*** styles for 'about' page ***/
+.about-page-holders {
+
+  &__workplaces ~ h4 {
+    background-color: $darkBlue;
+    color: white;
   }
 }
 
