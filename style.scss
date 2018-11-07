@@ -93,8 +93,8 @@ p {
 a {
   color: $darkBlue;
   text-decoration: none;
-  transition: background-color .3s ease-out,
-              color .3s ease-out;
+  transition: background-color .2s ease-out,
+              color .1s ease-out;
 	cursor: pointer;
 
   &:hover, &:active {
@@ -524,8 +524,9 @@ footer {
     color: $darkBlue;
     border-top: 1px solid $darkBlue;
     padding-top: 20px;
-    padding-right: 5px;
-    margin-top: 40px;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-top: 30px;
   }
 }
 
