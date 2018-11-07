@@ -34,6 +34,7 @@ Hi!
 * photoshop
 * lightroom
 * figma
+* markdown
 
 #### Использую в работе:
 
