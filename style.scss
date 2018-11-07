@@ -91,12 +91,15 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $darkBlue;
   text-decoration: none;
+  transition: background-color .3s ease-out,
+              color .3s ease-out;
 	cursor: pointer;
 
   &:hover, &:active {
-    color: $blue;
+    background-color: $darkBlue;
+    color: white;
   }
 }
 
