@@ -10,9 +10,9 @@ layout: default
 
       <div class="entry post__body">
         {{ post.excerpt }}
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more"> → читать дальше</a>
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">читать дальше →</a>
     </article>
   {% endfor %}
 </div>

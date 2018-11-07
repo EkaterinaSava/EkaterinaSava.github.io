@@ -93,6 +93,8 @@ p {
 a {
   color: $darkBlue;
   text-decoration: none;
+  padding-left: 1px;
+  padding-right: 1px;
   transition: background-color .2s ease-out,
               color .1s ease-out;
 	cursor: pointer;
@@ -484,10 +486,11 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
-    font-size: 11px;
+    display: inline-block;
+    text-transform: lowercase;
+    font-size: 12px;
     letter-spacing: .08em;
-    font-weight: 500;
+    font-weight: 600;
   }
 }
 
