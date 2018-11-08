@@ -498,6 +498,8 @@ nav {
   }
 }
 
+/*** footer stuff ***/
+
 .wrapper-footer {
   margin-top: 50px;
   background-color: $lightGray;
@@ -510,8 +512,16 @@ footer {
 
 .footer {
   &__social-link {
-    margin: 5px 5px 0;
     display: inline-block;
+    margin: 5px 5px 0;
+    opacity: 1;
+    transition: opacity .2s ease-out;
+
+
+    &:hover, &:active {
+      background-color: transparent;
+      opacity: .75;
+    }
   }
 }
 
