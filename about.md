@@ -205,6 +205,7 @@ Hi!
 
 * [GitHub](https://github.com/EkaterinaSava)
 * [CodePen](https://codepen.io/EkaterinaSava/)
+
 <!--
 {% comment %}
 * [Codecademy](https://www.codecademy.com/EkaterinaSava)
@@ -213,5 +214,6 @@ Hi!
 * [HTML Academy](https://htmlacademy.ru/profile/id67445)
 {% endcomment %}
 -->
+
 
 #### E-mail → [ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
