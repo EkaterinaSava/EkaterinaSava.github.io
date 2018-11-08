@@ -485,8 +485,12 @@ nav {
     margin-top: 10px;
   }
 
+  &__body p {
+    display: inline;
+  }
+
   .read-more {
-    display: inline-block;
+    display: inline;
     text-transform: lowercase;
     font-size: 12px;
     letter-spacing: .08em;
