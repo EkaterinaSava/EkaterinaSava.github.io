@@ -274,18 +274,18 @@ h2.post__small-heading {
 
 .wrapper-masthead {
   margin-bottom: 60px;
+
+  @include mobile {
+    margin-bottom: 30px;
+  }
 }
 
 .masthead {
-
   @include mobile {
     text-align: center;
   }
 }
 
-.header {
-
-}
 .header__inner {
   min-height: 150px;
   padding: 35px 0;
@@ -295,17 +295,18 @@ h2.post__small-heading {
     min-height: 185px;
     padding: 25px 0;
   }
-}
-.header__inner:after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 1px;
-  background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
-  background-size: 100% 1px;
-  opacity: .3;
+
+  &:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
+    background-size: 100% 1px;
+    opacity: .3;
+  }
 }
 
 /*** avatar styles ***/
