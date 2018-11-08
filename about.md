@@ -204,11 +204,15 @@ Hi!
 ### Мои аккаунты
 
 * [GitHub](https://github.com/EkaterinaSava)
+* [CodePen](https://codepen.io/EkaterinaSava/)
+<!--
+{% comment %}
 * [Codecademy](https://www.codecademy.com/EkaterinaSava)
 * [Code School](https://www.codeschool.com/users/EkaterinaSava)
 * [Hexlet](https://ru.hexlet.io/u/user-5fbff149371bb7e6)
 * [HTML Academy](https://htmlacademy.ru/profile/id67445)
-* [CodePen](https://codepen.io/EkaterinaSava/)
+{% endcomment %}
+-->
 
 ---
 
