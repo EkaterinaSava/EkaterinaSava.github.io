@@ -5,48 +5,36 @@ permalink: /about/
 
 Hi!
 
-Верстаю с 2012 года.
-
----
-
-Кроссбраузерно.
-
-Семантично.
-
-Валидно.
+Во фронтенде с 2012 года.
 
 ---
 
 #### Знаю:
 
 * html + css
-* pug (ex-jade)
+* pug
 * less / scss / precss
 * postcss workflow
-* jquery
-* gulp
+* native js / jquery
+* gulp / webpack
 * git
 
 #### Умею:
 
+* photoshop / lightroom / figma / sketch
 * bootstrap
-* squarespace
-* photoshop
-* lightroom
-* figma
 * markdown
+* emails
 
 #### Использую в работе:
 
-* phpstorm / webstorm
-* atom
-* sketch
-* terminal
 * macOS
+* terminal
+* phpstorm or webstorm / atom
 
 #### Изучаю в данный момент:
 
-* vue-стек
+* vue-стек: router + vuex + nuxt
 
 ---
 
