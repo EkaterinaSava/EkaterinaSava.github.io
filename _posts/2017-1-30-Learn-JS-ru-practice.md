@@ -920,3 +920,5 @@ title: Practice via learn.javascript.ru
   <h4 class="post__small-subheading">Современные возможности ES-2015</h4>
 
   * Promise
+
+---
