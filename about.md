@@ -188,10 +188,8 @@ Hi!
 
 ### Непрофессиональные интересы:
 
-* cybersport
-* LoL & MTG
 * photography
-* mindfulness
-* yoga
+* cybersport / LoL / MTG
+* yoga / mindfulness
 
 #### E-mail → [ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
