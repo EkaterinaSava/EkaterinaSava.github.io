@@ -48,15 +48,6 @@ Hi!
 
 * vue-стек
 
-#### Непрофессиональные интересы:
-
-* cybersport
-* LoL & MTG
-* photography
-* mindfulness
-* yoga
-
-
 ---
 
 <!--
@@ -85,9 +76,8 @@ Hi!
 
   **Фронтенд-разработчик**
 
-  - Изначальная разработка + поддержка фронтенда проектов:
-    - [«Foam»](https://foambox.ru/)
-    - [«Lots»](https://lotsclub.com/)
+  - Изначальная разработка и дальнейшая поддержка фронтенда проекта [«Foam»](https://foambox.ru/)
+  - Разработка с нуля фронтенда проекта [«Lots»](https://lotsclub.com/), затем переписывание проекта на стеке Vue + Vuex + Nuxt для SSR (к сожалению, до закрытия проекта это версию завершить не успели)
 
 #### Апрель 2017 — февраль 2018
   - 10 месяцев
@@ -206,5 +196,14 @@ Hi!
 * [GitHub](https://github.com/EkaterinaSava)
 * [CodePen](https://codepen.io/EkaterinaSava/)
 
+---
+
+### Непрофессиональные интересы:
+
+* cybersport
+* LoL & MTG
+* photography
+* mindfulness
+* yoga
 
 #### E-mail → [ekaterinasava@gmail.com](mailto:ekaterinasava@gmail.com)
