@@ -480,26 +480,21 @@ nav a {
   }
 }
 
-.posts > .post {
+.posts .post {
   padding-top: 35px;
   padding-bottom: 35px;
   position: relative;
 }
 
-.posts > .post:after {
+.posts .post:not(:last-child):after {
   content: '';
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
   height: 1px;
-  background-image: linear-gradient(to bottom, black 0%, black 51%, transparent 51%);
-  background-size: 100% 1px;
-  opacity: .1;
-}
-
-.posts > .post:last-child:after {
-  display: none;
+  background-color: #555;
+  opacity: .25;
 }
 
 .post blockquote {
