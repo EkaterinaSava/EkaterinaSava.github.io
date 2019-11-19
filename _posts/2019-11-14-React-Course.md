@@ -9,7 +9,7 @@ title: React Course
 
 * Преподаватель — [Максим Крамаренко](https://learn.javascript.ru/profile/maksym-kramarenko)
 
-_Исключительно для личной мотивации, самоконтроля и структурирования материала в голове._
+_Этот пост существует тут исключительно для личной мотивации, самоконтроля и структурирования материала в голове._
 
 ---
 
@@ -44,24 +44,21 @@ _Исключительно для личной мотивации, самоко
 
 <h5 class="post__underlined-heading">Скринкаст</h5>
 
-Посмотрела 2 раза и написала код.
-
-Мой код живет [тут](https://github.com/EkaterinaSava/react__screencast)
-
-Оригинальный код автора курса — [здесь](https://github.com/javascriptru/react-screencast-code)
-
+<div class="post__block post__block--left-space">
+    <p>Посмотрела 2 раза и написала код.</p>
+    <p>Мой код живет [тут](https://github.com/EkaterinaSava/react__screencast)</p>
+    <p>Оригинальный код автора курса — [здесь](https://github.com/javascriptru/react-screencast-code)</p>
+</div>
 
 <h5 class="post__underlined-heading">Теория по JS-y</h5>
 
-__Деструктуризация__
-
-Более точное название __деструктурирующее присваивание__
-
-__Классы__
-
-__Промисы__
-
-__Модули__
+<div class="post__block post__block--left-space">
+    <p>__Деструктуризация__</p>
+    <p>Более точное название __деструктурирующее присваивание__</p>
+    <p>__Классы__</p>
+    <p>__Промисы__</p>
+    <p>__Модули__</p>
+</div>
 
 ---
 

@@ -292,6 +292,11 @@ h2.post__small-heading + hr {
   padding-top: 0;
 }
 
+/* post blocks / with spaces */
+.post__block--left-space {
+  padding-left: 20px;
+}
+
 .gmnoprint img {
   max-width: none;
 }
