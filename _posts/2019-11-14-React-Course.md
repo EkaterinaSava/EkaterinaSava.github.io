@@ -13,7 +13,7 @@ _Исключительно для личной мотивации, самоко
 
 ---
 
-:large_blue_circle: <h2 class="post__small-heading">Занятие #0 / Организационное</h2>
+<h2 class="post__small-heading">:large_blue_circle: Занятие #0 / Организационное</h2>
 
 **_14/11/2019_**
 
@@ -65,7 +65,7 @@ __Модули__
 
 ---
 
-:large_blue_circle: <h2 class="post__small-heading">Занятие #1</h2>
+<h2 class="post__small-heading">:large_blue_circle: Занятие #1</h2>
 
 **_18/11/2019_**
 
@@ -89,6 +89,8 @@ __Модули__
 
 
 Плюс ссылка на [репозиторий нашего учебного проекта](https://github.com/Ta4i/react-2019-11-14), в нем же — описание [первого домашнего задания](https://github.com/Ta4i/react-2019-11-14#ht1), а также алгоритма по которому нужно его делать.
+
+<hr class="small">
 
 ### :small_blue_diamond: Домашка #1
 
