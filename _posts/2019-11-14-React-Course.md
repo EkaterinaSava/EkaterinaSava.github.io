@@ -45,19 +45,23 @@ _Этот пост существует тут исключительно для
 <h5 class="post__underlined-heading">Скринкаст</h5>
 
 <div class="post__block post__block--left-space">
-    <p>Посмотрела 2 раза и написала код.</p>
-    <p>Мой код живет [тут](https://github.com/EkaterinaSava/react__screencast)</p>
-    <p>Оригинальный код автора курса — [здесь](https://github.com/javascriptru/react-screencast-code)</p>
+
+    Посмотрела 2 раза и написала код.
+
+    Мой код живет [тут](https://github.com/EkaterinaSava/react__screencast)
+
+    Оригинальный код автора курса — [здесь](https://github.com/javascriptru/react-screencast-code)
+
 </div>
 
 <h5 class="post__underlined-heading">Теория по JS-y</h5>
 
 <div class="post__block post__block--left-space">
-    <p>__Деструктуризация__</p>
-    <p>Более точное название __деструктурирующее присваивание__</p>
-    <p>__Классы__</p>
-    <p>__Промисы__</p>
-    <p>__Модули__</p>
+    <p><b>Деструктуризация</b></p>
+    <p>Более точное название <b><i>деструктурирующее присваивание</i></b></p>
+    <p><b>Классы</b></p>
+    <p><b>Промисы</b></p>
+    <p><b>Модули</b></p>
 </div>
 
 ---
