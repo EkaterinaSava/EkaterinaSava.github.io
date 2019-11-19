@@ -91,7 +91,6 @@ p {
 
 a {
   color: $darkBlue;
-  font-weight: 500;
   text-decoration: none;
   padding-left: 1px;
   padding-right: 1px;
@@ -211,9 +210,9 @@ hr.small {
     left: 0;
     height: 1px;
     background-color: gray;
-    opacity: .25;
   }
 }
+
 
 /* headings for posts */
 h2.post__small-heading {
@@ -226,6 +225,20 @@ h2.post__small-heading {
 h5.post__underlined-heading {
   font-weight: 500;
   text-decoration: underline;
+}
+
+/* headings + separator */
+h1 + hr,
+h2 + hr,
+h3 + hr,
+h4 + hr,
+h5 + hr,
+h6 + hr {
+  margin-top: 0;
+}
+
+h2.post__small-heading + hr {
+  padding-top: 0;
 }
 
 // Fixes images in popup boxes from Google Translate
