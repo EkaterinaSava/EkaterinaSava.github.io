@@ -47,7 +47,7 @@ _Этот пост существует тут исключительно для
 <div class="post__block post__block--left-space">
     <p>Посмотрела 2 раза и написала код.</p>
     <p>Мой код живет <a href="https://github.com/EkaterinaSava/react__screencast">тут</a></p>
-    <p>А оригинальный код автора курса — <a href="https://github.com/javascriptru/react-screencast-code">здесь</p>
+    <p>А оригинальный код автора курса — <a href="https://github.com/javascriptru/react-screencast-code">здесь</a></p>
 </div>
 
 <h5 class="post__underlined-heading">Теория по JS-y</h5>
