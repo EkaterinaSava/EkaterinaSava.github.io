@@ -95,6 +95,16 @@ _Этот пост существует тут исключительно для
 
 Моя ветка с первым д/з - [home-work-1](https://github.com/EkaterinaSava/react-2019-11-14/tree/home-work-1)
 
+Кроме этого залила первую домашку через Firebase на хостинг [https://react-course-hw-1-by-sava.firebaseapp.com](https://react-course-hw-1-by-sava.firebaseapp.com)
+
+---
+
+<h2 class="post__small-heading">:large_blue_circle: Занятие #2</h2>
+
+**_11/11/2019_**
+
+Продолжительность: -
+
 ---
 
 <!-- 14/11/2019 -->
