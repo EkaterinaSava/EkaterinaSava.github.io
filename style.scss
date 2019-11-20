@@ -162,7 +162,7 @@ strong {
 }
 
 b {
-  font-weight: 700;
+  font-weight: 400;
   color: $gray;
 }
 
@@ -225,6 +225,13 @@ h2.post__small-heading {
 h5.post__underlined-heading {
   font-weight: 500;
   text-decoration: underline;
+}
+
+h1 + .post__underlined-heading,
+h2 + .post__underlined-heading,
+h3 + .post__underlined-heading,
+h4 + .post__underlined-heading {
+  margin-top: 30px;
 }
 
 /* headings + separator */

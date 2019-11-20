@@ -45,13 +45,9 @@ _Этот пост существует тут исключительно для
 <h5 class="post__underlined-heading">Скринкаст</h5>
 
 <div class="post__block post__block--left-space">
-
-    Посмотрела 2 раза и написала код.
-
-    Мой код живет [тут](https://github.com/EkaterinaSava/react__screencast)
-
-    Оригинальный код автора курса — [здесь](https://github.com/javascriptru/react-screencast-code)
-
+    <p>Посмотрела 2 раза и написала код.</p>
+    <p>Мой код живет <a href="https://github.com/EkaterinaSava/react__screencast">тут</a></p>
+    <p>А оригинальный код автора курса — <a href="https://github.com/javascriptru/react-screencast-code">здесь</p>
 </div>
 
 <h5 class="post__underlined-heading">Теория по JS-y</h5>
@@ -95,7 +91,9 @@ _Этот пост существует тут исключительно для
 
 ### :small_blue_diamond: Домашка #1
 
-Мой форкнутый резозиторий — [https://github.com/EkaterinaSava/react-2019-11-14](https://github.com/EkaterinaSava/react-2019-11-14)
+Мой форкнутый репозиторий — [https://github.com/EkaterinaSava/react-2019-11-14](https://github.com/EkaterinaSava/react-2019-11-14)
+
+Моя ветка с первым д/з - [home-work-1](https://github.com/EkaterinaSava/react-2019-11-14/tree/home-work-1)
 
 ---
 
