@@ -248,6 +248,17 @@ h2.post__small-heading + hr {
   padding-top: 0;
 }
 
+/* separator + heading */
+hr + h1,
+hr + h2,
+hr + h3,
+hr + h4,
+hr + h5,
+hr + h6 {
+  padding-top: 0;
+  margin-top: 0;
+}
+
 /* post blocks / with spaces */
 .post__block {
   &--left-space {

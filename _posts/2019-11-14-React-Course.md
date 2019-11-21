@@ -93,7 +93,7 @@ _Этот пост существует тут исключительно для
 
 Мой форкнутый репозиторий — [https://github.com/EkaterinaSava/react-2019-11-14](https://github.com/EkaterinaSava/react-2019-11-14)
 
-Моя ветка с первым д/з - [home-work-1](https://github.com/EkaterinaSava/react-2019-11-14/tree/home-work-1)
+Моя ветка с первым д/з — [home-work-1](https://github.com/EkaterinaSava/react-2019-11-14/tree/home-work-1)
 
 Кроме этого залила первую домашку через Firebase на хостинг [https://react-course-hw-1-by-sava.firebaseapp.com](https://react-course-hw-1-by-sava.firebaseapp.com)
 
