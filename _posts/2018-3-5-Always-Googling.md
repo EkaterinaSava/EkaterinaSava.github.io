@@ -41,7 +41,7 @@ via [stackoverflow](https://stackoverflow.com/questions/8191459/how-do-i-update-
 
 * Проверить и обновить нужные (покажет минорные/мажорные версии, главные фичи и т.п. — очень удобно!)
 
-  `npm-check -gu`
+  `sudo npm-check -gu`
 
 <hr class="small">
 
