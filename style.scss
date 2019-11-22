@@ -259,6 +259,11 @@ hr + h6 {
   margin-top: 0;
 }
 
+hr + h2.post__small-heading {
+  padding-top: 0;
+  margin-top: 0;
+}
+
 /* post blocks / with spaces */
 .post__block {
   &--left-space {

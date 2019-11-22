@@ -58,7 +58,7 @@ firebase init
 ? File public/index.html already exists. Overwrite? No
 ```
 
-__* приведенный пример подходит, например, для проекта на Реакте, собранного через create-react-app__
+_* приведенный пример подходит, например, для проекта на Реакте, собранного через create-react-app_
 
 будет сообщение `✔ Firebase initialization complete!`
 
