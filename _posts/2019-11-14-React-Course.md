@@ -3,7 +3,7 @@ layout: post
 title: React Course
 ---
 
-:pencil: С 14 ноября по 23 декабря 2019 года я буду обучаться на [курсе по React](https://learn.javascript.ru/courses/react) от портала [learn.javascript.ru](https://learn.javascript.ru). Здесь буду вести дневник основных этапов обучения и выполнения домашних заданий, а также записывать важные теоретические материалы. 
+ :mortar_board: С 14 ноября по 23 декабря 2019 года я буду обучаться на [курсе по React](https://learn.javascript.ru/courses/react) от портала [learn.javascript.ru](https://learn.javascript.ru). Здесь буду вести дневник основных этапов обучения и выполнения домашних заданий, а также записывать важные теоретические материалы. 
 
 * Занятия 2 раза в неделю по пн и чт по полтора часа
 
