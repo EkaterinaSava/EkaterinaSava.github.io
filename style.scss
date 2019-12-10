@@ -580,6 +580,12 @@ footer {
   }
 }
 
+/*** select code in code blocks***/
+.highlighter-rouge > .highlight::selection {
+  background-color: $darkBlue;
+  color: white;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "_sass/_highlights";
