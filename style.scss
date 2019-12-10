@@ -581,7 +581,7 @@ footer {
 }
 
 /*** select code in code blocks***/
-.highlighter-rouge > .highlight::selection {
+.highlighter-rouge .highlight::selection {
   background-color: $darkBlue;
   color: white;
 }
